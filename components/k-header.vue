@@ -1,4 +1,8 @@
 <template>
+    <head>
+        <title>KATRINACITY | Katrina Stalcup</title>
+        <meta property="og:image" content="/public/flowers.png">
+    </head>
     <nav>
         <div class="wrapper">
             <div class="title">
@@ -17,9 +21,6 @@
     .title{
         height: 2.8vw;
     }
-    .logo {
-        font-size: 2em;
-    }
     .logo-text {
         color: #2877ff;
         text-decoration: none;
@@ -36,7 +37,6 @@
     }
     .menu-item {
         margin: 0;
-        font-size: 1.4em;
     }
     .menu-text{
         color: #2877ff;
