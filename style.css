@@ -1,9 +1,13 @@
 html, body{
     height: 100%;
     margin: 0;
+    line-height: 1.2;
+    font-size: 1.6rem;
 }
 html {
     background-color: #ff2830;
+    overflow-y: hidden;
+    overflow-y: scroll;
 }
 .container{
     position: absolute;
@@ -21,4 +25,9 @@ h1, h2, h3, h4, h5, h6 {
 } 
 main {
     padding: 0;
+}
+@media screen and (min-width: 992px){
+    .right-section[data-v-7fccc88e] {
+        padding: 1.5rem;
+    }
 }
