@@ -16,7 +16,7 @@
 
 <style>
     .title{
-        margin-top: -3.8em;
+        margin-top: -3.6em;
     }
     .logo {
         font-size: 4.6em;
@@ -32,7 +32,7 @@
         display: flex;
         flex-direction: row;
         margin-top: -2em;
-        height: 3em;
+        height: 3.2em;
         gap: 2em;
     }
     .menu-item{
