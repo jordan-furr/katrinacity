@@ -1,38 +1,44 @@
 <template>
-    <div class="wrapper">
-        <div class="title">
-            <h1 class="logo">KATRINACITY</h1>
+    <nav>
+        <div class="wrapper">
+            <div class="title">
+                <h1 class="logo"><NuxtLink to="/">KATRINACITY</NuxtLink></h1>
+            </div>
+            <div class="menu">
+                <p class="menu-item"><NuxtLink to="/art">art</NuxtLink></p>
+                <p class="menu-item"><NuxtLink to="/about">about</NuxtLink></p>
+                <p class="menu-item"><NuxtLink to="/work">work</NuxtLink></p>
+                <p class="menu-item"><NuxtLink to="/art">art</NuxtLink></p>
+            </div>
         </div>
-        <div class="menu">
-            <p><Nuxtlink to="~/pages/art">art</Nuxtlink></p>
-            <p><Nuxtlink to="~/pages/about">about</Nuxtlink></p>
-        </div>
-    </div>
+    </nav>
 </template>
 
-
 <style>
-.logo:hover {
-    color: white;
-}
-.wrapper{ 
-    background-color: #ff2830;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
-.title {
-    margin-left: 2em;
-}
-.menu{
-    display: flex;
-    flex-direction: row;
-    text-decoration: none;
-}
-.menu p {
-    padding-left: 2em;
-}
-.menu p:hover {
-    color: white;
-}
+    .title{
+        margin-top: -3.8em;
+    }
+    .logo {
+        font-size: 4.6em;
+    }
+    .wrapper{ 
+        background-color: #ff2830;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0;
+    }
+    .menu{
+        display: flex;
+        flex-direction: row;
+        margin-top: -2em;
+        height: 3em;
+        gap: 2em;
+    }
+    .menu-item{
+        text-decoration: none;
+    }
+    .menu-item:hover{
+        color: white;
+    }
 </style>

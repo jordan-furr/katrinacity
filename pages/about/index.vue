@@ -1,20 +1,19 @@
 <template>
-    <body>
-      <k-header/>
-      <main>
-        <div class ="container">
-          <div class ="about-text">
-            <h1>Katrina Stalcup</h1>
-            <p>Brooklyn, NY.</p>
-          </div>
+  <body>
+    <k-header/>
+    <main>
+      <div class ="container">
+        <div class ="about-text">
+          <h1>Katrina Stalcup</h1>
+          <p>Brooklyn, NY.</p>
         </div>
-      </main>
-    </body>
-  </template>
+      </div>
+    </main>
+  </body>
+</template>
   
-  <style>
-  @import '/style.css';
+<style>
   .h1{
     color: purple;
   }
-  </style>
+</style>

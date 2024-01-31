@@ -1,19 +1,19 @@
 <template>
-    <body>
-      <k-header/>
-      <main>
-        <div class ="container">
-          <div class ="about-text">
-            <h1>Art</h1>
-            <a href="https://samewave7.netlify.app/">samewave7</a>
-            <p>Samewave7</p>
-          </div>
+  <body>
+    <k-header/>
+    <main>
+      <div class ="container">
+        <div class ="about-text">
+          <h1>Katrina Stalcup</h1>
+          <p>art</p>
         </div>
-      </main>
-    </body>
-  </template>
+      </div>
+    </main>
+  </body>
+</template>
   
-  <style>
-  @import '/style.css';
-  
-  </style>
+<style>
+  .h1{
+    color: purple;
+  }
+</style>

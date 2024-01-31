@@ -4,8 +4,11 @@ html, body{
 }
 .container{
     min-height: 100%;
-    background-color: #ff2830;
 }
-a:hover {
+a{
+    text-decoration: none;
     color: black;
+}
+a:hover{
+    color: white;
 }
