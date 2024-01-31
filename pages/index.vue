@@ -2,11 +2,13 @@
     <body>
         <k-header/>
         <main>
-            <div class="title">
-                <h4>welcome</h4>
-            </div>
-            <div class="entry-button">
-                <p><NuxtLink to="/about">about</NuxtLink></p>
+            <div class = "container">
+                <div class="title">
+                    <h4>welcome</h4>
+                </div>
+                <div class="entry-button">
+                    <p><NuxtLink to="/about">about</NuxtLink></p>
+                </div>
             </div>
         </main>
     </body>
