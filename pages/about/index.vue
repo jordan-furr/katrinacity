@@ -4,7 +4,7 @@
     <main>
       <div class ="container">
         <div class ="about-text">
-          <h1>Katrina Stalcup</h1>
+          <h2>About</h2>
           <p>Brooklyn, NY.</p>
         </div>
       </div>

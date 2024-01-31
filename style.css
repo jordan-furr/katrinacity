@@ -3,13 +3,22 @@ html, body{
     margin: 0;
 }
 html {
-    background-color: #2868ff;
+    background-color: #ff2830;
 }
 .container{
+    position: absolute;
+    left: 22.7vw;
+    right: 0.7vw;
+    top: 0.7vw;
+    bottom: 0.7vw;
+    background-color: white;
     min-height: 100vh;
+    padding-left: 4em;
+    padding-top: 3em;
 }
+h1, h2, h3, h4, h5, h6 {
+    color: #ff2830;
+} 
 main {
-    background-color: #2877ff;
-    width: 75vw;
-    margin-left: 25vw;
+    padding: 0;
 }

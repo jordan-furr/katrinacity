@@ -4,7 +4,7 @@
       <main>
         <div class ="container">
           <div class ="about-text">
-            <h1>Katrina Stalcup</h1>
+            <h2>Work</h2>
             <p>work</p>
           </div>
         </div>
@@ -13,9 +13,6 @@
   </template>
     
   <style>
-    .h1{
-      color: purple;
-    }
   </style>
 
 <script>

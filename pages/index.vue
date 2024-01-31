@@ -4,11 +4,9 @@
         <main>
             <div class = "container">
                 <div class="title">
-                    <h4>welcome</h4>
+                    <h2>welcome</h2>
                 </div>
-                <div class="entry-button">
-                    <p><NuxtLink to="/about">about</NuxtLink></p>
-                </div>
+                <p>my name is katrina stalcup</p>
             </div>
         </main>
     </body>
@@ -16,8 +14,5 @@
 
 
 <style>
-    main {
-    padding-top: 4em;
-    padding-left: 4em;
-    }
+
 </style>

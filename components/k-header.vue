@@ -8,7 +8,6 @@
                 <p class="menu-item"><NuxtLink class="menu-text" to="/art">art</NuxtLink></p>
                 <p class="menu-item"><NuxtLink class="menu-text" to="/about">about</NuxtLink></p>
                 <p class="menu-item"><NuxtLink class="menu-text" to="/work">work</NuxtLink></p>
-                <p class="menu-item"><NuxtLink class="menu-text" to="/art">art</NuxtLink></p>
             </div>
         </div>
     </nav>
@@ -16,43 +15,44 @@
 
 <style>
     .title{
-        margin-top: -2.6em;
+        height: 2.8vw;
     }
     .logo {
-        font-size: 3em;
+        font-size: 2em;
     }
     .logo-text {
-        color: #ff2830;
+        color: #2877ff;
         text-decoration: none;
     }
     .logo-text:hover {
-        color: #ff282fbb;
+        text-decoration: wavy;
     }
     .wrapper{ 
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        margin: 0;
-        background: white;
-        width: 25vw;
+        padding-left: 1.4vw;
     }
     .menu{
         display: flex;
-        flex-direction: row;
-        margin-top: -3.4em;
-        height: 3.2em;
-        gap: 2em;
+        flex-direction: column;
+    }
+    .menu-item {
+        margin: 0;
+        font-size: 1.4em;
     }
     .menu-text{
-        color: #ff2830;
+        color: #2877ff;
         text-decoration: none;
     }
     .menu-text:hover {
         text-decoration: underline;
     }
     nav {
+        width: 22vw;
         position: fixed;
         background: white;
-        height: 100vh;
+        height: 120vh;
+        background-size: 1.4vw 1.4vw;
+        background-image:
+            linear-gradient(to right, grey 1px, transparent 1px),
+            linear-gradient(to bottom, grey 1px, transparent 1px);
     }
 </style>
