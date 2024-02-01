@@ -1,6 +1,6 @@
 <template>
     <head>
-        <title>KATRINACITY | Katrina Stalcup</title>
+        <title>KATRINACITY | Home</title>
         <meta property="og:image" content="/public/flowers.png">
     </head>
     <nav>
