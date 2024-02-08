@@ -1,6 +1,5 @@
 <template>
   <body>
-    <k-header/>
     <main>
       <div class ="container">
         <div class ="about-text">
