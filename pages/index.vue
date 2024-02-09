@@ -1,5 +1,5 @@
 <template>
-    <div class="h-92 flex flex-row ph3">
+    <div class="h-92 flex flex-row pl3">
         <div class="main-section w-80 overflow-y grid">
             <div class="pa5">
                 <div class="home-content">
@@ -19,7 +19,7 @@
             </div>
         </div>
         <div class="info-section w-20 bg-white overflow-y bg-purple flex">
-            <div class="w-100 pa4 facts ">
+            <div class="w-100 pa4 facts">
                 <p>Katrina Stalcup is an artist and professional based in Brooklyn, NY.</p>
                 <br>
                 <p> Katrina's favorite color is purple. Katrina likes to eat take out from Little Tiffin. Katrina is currently reading The Gastronomical Me by M.F.K. Fisher.</p>
