@@ -271,7 +271,7 @@ p:hover {
     margin-bottom: 1.5rem;
 }
 .grid {
-    background-size: 1.7rem 1.7rem;
+    background-size: 2.3vw 2.3vw;
     background-image:
         linear-gradient(to right, #8877d4 1px, transparent 1px),
         linear-gradient(to bottom, #8877d4 1px, transparent 1px);
