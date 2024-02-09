@@ -1,21 +1,21 @@
 <template>
-    <nav>
-        <div class="flex flex-row align-center ph3">
-            <div class="w-80">
-                <h3><NuxtLink class="red-text no-text-dec" to="/">KATRINACITY</NuxtLink></h3>
+    <nav class="flex w-100">
+        <div class="flex flex-row align-center space-between ph3 w-100">
+            <div class="">
+                <h3><NuxtLink class="blue-text no-text-dec" to="/">KATRINACITY</NuxtLink></h3>
             </div>
-            <div class="flex flex-row flex-end align-center w-20">
-                <p><NuxtLink class="red-text under-hov" to="/art">art</NuxtLink></p>
-                <p><NuxtLink class="red-text under-hov" to="/about">about</NuxtLink></p>
-                <p><NuxtLink class="red-text under-hov" to="/work">work</NuxtLink></p>
+            <div class="flex flex-row flex-end align-center">
+                <p><NuxtLink class="purple-text under-hov" to="/art">art</NuxtLink></p>
+                <p><NuxtLink class="purple-text under-hov" to="/work">work</NuxtLink></p>
+                <p><NuxtLink class="purple-text under-hov" to="/about">about</NuxtLink></p>
             </div>
         </div>
     </nav>
 </template>
 
 <style>
-.purple-text{
-    color: var(--purple);
+h3{
+    margin: 0;
 }
 nav {
     height: 8%;
