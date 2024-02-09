@@ -244,7 +244,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .bg-purple{
-    background-color: #7765c8;
+    background-color: #8877d4;
 }
 .bg-red{
     background-color: var(--red);
@@ -253,13 +253,19 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--red);
 }
 .purple-text{
-    color: #7765c8;
+    color: #8877d4;
 }
-.purple-text:active{
+.purple-text:hover{
     color: #2877ff;
 }
 .blue-text{
     color: #2877ff;
+}
+.blue-text:hover{
+    color: #2877ffe0;
+}
+p:hover {
+    color: #4b0f99;
 }
 .item{
     margin-bottom: 1.5rem;
@@ -267,8 +273,8 @@ h1, h2, h3, h4, h5, h6 {
 .grid {
     background-size: 1.7rem 1.7rem;
     background-image:
-        linear-gradient(to right, #7765c8 1px, transparent 1px),
-        linear-gradient(to bottom, #7765c8 1px, transparent 1px);
+        linear-gradient(to right, #8877d4 1px, transparent 1px),
+        linear-gradient(to bottom, #8877d4 1px, transparent 1px);
 }
 @media screen and (max-width: 870px){
     p {
