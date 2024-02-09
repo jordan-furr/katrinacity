@@ -3,19 +3,7 @@
       <div class="main-section w-80 overflow-y grid ph1">
           <div class="pa5">
             <div class="home-content">
-                    <div class="item">
-                        <img class="w-30" src="/Favicon.ico" alt="">
-                        <p>e</p>
-                    </div>
-                    <div class="item">
-                        <img class="w-30" src="/Favicon.ico" alt="">
-                        <p>e</p>
-                    </div>
-                    <div class="item">
-                        <img class="w-30" src="/Favicon.ico" alt="">
-                        <p>e</p>
-                    </div>
-                </div>
+            </div>
           </div>
       </div>
       <div class="info-section w-20 bg-white h-96 overflow-y flex">

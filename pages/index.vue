@@ -4,15 +4,15 @@
             <div class="pa5">
                 <div class="home-content">
                     <div class="item">
-                        <img class="w-30" src="/Favicon.ico" alt="">
+                        <img class="w-30" src="~/assets/img/flowers.jpeg" alt="">
                         <p>e</p>
                     </div>
                     <div class="item">
-                        <img class="w-30" src="/Favicon.ico" alt="">
+                        <img class="w-30" src="~/assets/img/flowers.jpeg" alt="">
                         <p>e</p>
                     </div>
                     <div class="item">
-                        <img class="w-30" src="/Favicon.ico" alt="">
+                        <img class="w-30" src="~/assets/img/flowers.jpeg" alt="">
                         <p>e</p>
                     </div>
                 </div>
