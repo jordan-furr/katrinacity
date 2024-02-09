@@ -1,5 +1,5 @@
 <template>
-    <nav class="flex w-100">
+    <nav class="flex w-100 flex-auto">
         <div class="flex flex-row align-center space-between ph3 w-100">
             <div class="">
                 <h3><NuxtLink class="blue-text no-text-dec" to="/">KATRINACITY</NuxtLink></h3>
