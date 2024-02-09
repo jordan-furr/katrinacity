@@ -35,7 +35,7 @@
       </div>
     </div>
     <div class="info-section w-20 flex pr3 pb3">
-      <div class="w-100 pa4 facts bg-purple  overflow-y">
+      <div class="w-100 pa4 facts bg-purple overflow-y">
         <p>Katrina Stalcup is an artist and professional based in Brooklyn, NY.</p>
         <br>
         <p>CONTACT</p>
