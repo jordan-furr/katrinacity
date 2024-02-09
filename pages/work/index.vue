@@ -20,7 +20,7 @@
       </div>
       <div class="info-section w-20 bg-white overflow-y bg-purple flex">
           <div class="w-100 pa4 facts ">
-              <p>Katrina Stalcup is an artist and professional based in Brooklyn, NY.</p>
+              <p>Katrina Stalcup is an artist  and professional based in Brooklyn, NY.</p>
               <br>
               <p> Katrina's favorite color is purple. Katrina likes to eat take out from Little Tiffin. Katrina is currently reading The Gastronomical Me by M.F.K. Fisher.</p>
               <br>
