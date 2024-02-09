@@ -19,10 +19,13 @@ body {
 
 html {
     overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 body {
     min-height: 100vh;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 p {
