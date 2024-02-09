@@ -11,14 +11,17 @@ html, body{
     line-height: 1.15;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: rgb(28, 13, 85);
+    font-size: 105%;
 }
 html {
     overflow-y: hidden;
     overflow-y: scroll;
 }
+body {
+    min-height: 100vh;
+}
 p {
     margin: 0;
-    font-size: 102%;
 }
 h1, h2, h3, h4, h5, h6 {
     color: var(--blue);
@@ -31,6 +34,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .relative{
     position: relative;
+}
+.inline{
+    display: inline-block;
 }
 .flex {
     display: flex;
@@ -125,6 +131,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .top-0{
     top: 0;
+}
+.top-50{
+    top: 50;
 }
 .right-0{
     right: 0;
@@ -271,7 +280,7 @@ p:hover {
     margin-bottom: 1.5rem;
 }
 .grid {
-    background-size: 2.3vw 2.3vw;
+    background-size: 1.991vw 1.991vw;
     background-image:
         linear-gradient(to right, #8877d4 1px, transparent 1px),
         linear-gradient(to bottom, #8877d4 1px, transparent 1px);
@@ -280,10 +289,16 @@ p:hover {
     p {
         color: orange;
     }
-    .info-section {
-        display: none;
-    }
     .main-section{
         width: 100%;
+    }
+    .grid {
+        background-size: 4.5vw 4.5vw;
+        background-image:
+            linear-gradient(to right, #8877d4 1px, transparent 1px),
+            linear-gradient(to bottom, #8877d4 1px, transparent 1px);
+    }
+    .facts{
+        width: 40%;
     }
 }
