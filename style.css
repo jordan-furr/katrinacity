@@ -38,7 +38,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: var(--blue);
+    margin: 0;
 }
 
 .fixed {
@@ -377,7 +377,7 @@ h6 {
 
 
 .bg-purple {
-    background-color: #a987e7;
+    background-color: #8877d4;
 }
 
 .bg-red {
@@ -389,7 +389,7 @@ h6 {
 }
 
 .purple-text {
-    color: #a987e7;
+    color: #8877d4;
 }
 
 .purple-text:hover {

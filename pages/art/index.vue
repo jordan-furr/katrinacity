@@ -36,32 +36,29 @@
     </div>
     <div class="info-section w-20 flex pr3 pb3">
       <div class="w-100 pa4 facts bg-purple overflow-y">
-        <p>Katrina Stalcup is an artist and professional based in Brooklyn, NY.</p>
+        <p>Katrina Stalcup began practicing art under collective SAMEWAVE7 in 2021.</p>
         <br>
-        <p>CONTACT</p>
-        <p>kat.stalcup@gmail.com</p>
+        <p>COMMISSIONS</p>
+        <p>samewave7@gmail.com</p>
         <br>
-        <p>Katrina's favorite colors are purple, red, and blue.</p>
+        <p>Katrina utilizes fiber (fabric, yarn, thread), bead, metal, acrylic, needle, hook, and machine. </p>
         <br>
-        <p>Katrina likes to eat take out from Little Tiffin. Katrina is currently reading The Gastronomical Me by
-          M.F.K. Fisher.</p>
+        <p>Katrina practices sustainable collection and repurposing of material.</p>
         <br>
-        <p>Katrina graduated from UofM in 2020 with an honors degree in American Culture.</p>
+        <p>EXIBITION INSPIRATIONS</p>
+        <p>Fabric of a Nation. Museum of Fine Arts Boston, July 2022.</p>
+        <p>Radical Tradition: American Quilts and Social Change. Toledo Museum of Art, February 2021.</p>
         <br>
-        <p>Katrina cares about meaning making and critical thinking.</p>
+        <p>Katrina has been commissioned for clothing articles and full size quilts including a memoriam quilt using dozens of heirloom bandanas and silks.</p>
         <br>
-        <p>Katrina likes the Twilight series.</p>
+        <p>Katrina's favorite yarn store in New York is Downtown Yarns off Avenue A.</p>
         <br>
-        <p>Katrina was born on February 19th in Illinois.</p>
+        <p>Katrina has used a Janome sewing machine and is looking for a replacement.</p>
         <br>
-        <p>Katrina likes to take long walks on the weekends.</p>
+        <p>Katrina is working on an upcoming magazine project.</p>
         <br>
-        <p>Katrina's favorite bakery in New York is Radio Bakery, right around the corner.</p>
+        <p>Katrina likes to listen to Leonard Cohen while creating.</p>
         <br>
-        <p>Katrina's bagel order is an everything (or onion) bagel, toasted, with dill (or green onion) cream
-          cheese.</p>
-        <br>
-        <p>Katrina is a really great partner and friend.</p>
       </div>
     </div>
   </div>

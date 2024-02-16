@@ -36,7 +36,7 @@
     </div>
     <div class="info-section w-20 flex pr3 pb3">
       <div class="w-100 pa4 facts bg-purple overflow-y">
-        <p>Katrina Stalcup is an artist and professional based in Brooklyn, NY.</p>
+        <p>Katrina Stalcup is an artist and thinker based in Brooklyn, NY.</p>
         <br>
         <p>CONTACT</p>
         <p>kat.stalcup@gmail.com</p>
@@ -47,8 +47,6 @@
           M.F.K. Fisher.</p>
         <br>
         <p>Katrina graduated from UofM in 2020 with an honors degree in American Culture.</p>
-        <br>
-        <p>Katrina cares about meaning making and critical thinking.</p>
         <br>
         <p>Katrina likes the Twilight series.</p>
         <br>
@@ -62,6 +60,7 @@
           cheese.</p>
         <br>
         <p>Katrina is a really great partner and friend.</p>
+        <br>
       </div>
     </div>
   </div>

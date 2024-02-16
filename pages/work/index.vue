@@ -36,32 +36,28 @@
     </div>
     <div class="info-section w-20 flex pr3 pb3">
       <div class="w-100 pa4 facts bg-purple overflow-y">
-        <p>Katrina Stalcup is an artist and professional based in Brooklyn, NY.</p>
+        <p>Katrina Stalcup is a multi-experienced professional based in Brooklyn, NY.</p>
         <br>
         <p>CONTACT</p>
         <p>kat.stalcup@gmail.com</p>
         <br>
-        <p>Katrina's favorite colors are purple, red, and blue.</p>
-        <br>
-        <p>Katrina likes to eat take out from Little Tiffin. Katrina is currently reading The Gastronomical Me by
-          M.F.K. Fisher.</p>
-        <br>
-        <p>Katrina graduated from UofM in 2020 with an honors degree in American Culture.</p>
+        <p>Katrina has been working full-time in the start-up space since 2021 and loves the demand for solving big problems, iterating, and taking many roles.</p>
         <br>
         <p>Katrina cares about meaning making and critical thinking.</p>
         <br>
-        <p>Katrina likes the Twilight series.</p>
+        <p>Katrina has contributed to early stage projects since 2014.</p>
+        <p>- Eli Tea Bar</p>
+        <p>- STAR Laces</p>
+        <p>- No Rent MI</p>
+        <p>- Green Butterfly</p>
+        <p>- SAMEWAVE7</p>
         <br>
-        <p>Katrina was born on February 19th in Illinois.</p>
+        <p>Katrina graduated in 2020 from The University of Michigan with an honors degree in American Culture.</p>
         <br>
-        <p>Katrina likes to take long walks on the weekends.</p>
+        <p>Katrina studied at Hampsire College from 2016-2018.</p>
         <br>
-        <p>Katrina's favorite bakery in New York is Radio Bakery, right around the corner.</p>
+        <p>On the weekend Katrina likes to dream with other creators and entrepreneurs while working on art projects.</p>
         <br>
-        <p>Katrina's bagel order is an everything (or onion) bagel, toasted, with dill (or green onion) cream
-          cheese.</p>
-        <br>
-        <p>Katrina is a really great partner and friend.</p>
       </div>
     </div>
   </div>
