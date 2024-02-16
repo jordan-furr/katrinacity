@@ -2,33 +2,58 @@
   <div class="h-92 flex flex-row">
     <div class="main-section pl3 pb3 w-80">
       <div class="grid overflow-y h-100">
-        <div class="pa5 relative">
+        <div class="grid-layout">
           <div class="home-content">
             <div class="flex flex-row">
-              <div class="item">
-                <img class="w-30" src="~/assets/img/flowers.jpeg" alt="">
-                <p>e</p>
+              <div class="item w-40">
+                <div class="flex flex-col">
+                  <div class="w-90">
+                    <img class="w-100 shrink purple-border-thick" src="~/assets/img/about/Katrina-Stalcup-About-0.jpeg" alt="">
+                  </div>
+                  <div class="w-100 text-center">
+                    <img class="w-80 mt7 spin" src="~/assets/img/about/Katrina-Stalcup-About-10.png" alt="">
+
+                  </div>
+                </div>
               </div>
-              <div class="item">
-                <img class="w-30" src="~/assets/img/flowers.jpeg" alt="">
-                <p>e</p>
+              <div class="item w-60">
+                <div class="w-90 mt7 float-right">
+                  <img class="w-100 shrink" src="~/assets/img/about/Katrina-Stalcup-About-1.jpeg" alt="">
+                </div>
               </div>
             </div>
             <div class="item">
-              <img class="w-30" src="~/assets/img/flowers.jpeg" alt="">
-              <p>e</p>
+              <div class="w-100">
+                <img class="w-100 mt7 shrink" src="~/assets/img/about/Katrina-Stalcup-About-3.jpeg" alt="">
+
+              </div>
             </div>
-            <div class="item">
-              <img class="w-30" src="~/assets/img/flowers.jpeg" alt="">
-              <p>e</p>
+            <div class="item mt7 float-right">
+              <div class="w-50 float-right">
+                <img class="w-100 shrink" src="~/assets/img/about/Katrina-Stalcup-About-5.jpeg" alt="">
+              </div>
             </div>
-            <div class="item">
-              <img class="w-30" src="~/assets/img/flowers.jpeg" alt="">
-              <p>e</p>
+            <div class="item mt9">
+              <div class="w-75">
+                <img class="w-100 white-border shrink" src="~/assets/img/about/Katrina-Stalcup-About-9.jpeg" alt="">
+              </div>
             </div>
-            <div class="item">
-              <img class="w-30" src="~/assets/img/flowers.jpeg" alt="">
-              <p>e</p>
+            <div class="item mt8">
+              <div class="margin-a w-66">
+                <img class="w-100 hover-bright shrink" src="~/assets/img/about/Katrina-Stalcup-About-7.jpeg" alt="">
+              </div>
+            </div>
+            <div class="flex flex-row">
+              <div class="item w-40">
+                <div class="w-90 ml4 mt5 float-right">
+                    <img class="w-100 shrink" src="~/assets/img/about/Katrina-Stalcup-About-8.png" alt="">
+                  </div>
+              </div>
+              <div class="item w-60">
+                <div class="w-80 mt9 margin-a">
+                  <img class="w-100 red-border shrink" src="~/assets/img/about/Katrina-Stalcup-About-4.jpeg" alt="">
+                </div>
+              </div>
             </div>
           </div>
         </div>
