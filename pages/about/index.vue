@@ -8,29 +8,27 @@
               <div class="item w-40">
                 <div class="flex flex-col">
                   <div class="w-90">
-                    <img class="w-100 shrink purple-border-thick" src="~/assets/img/about/Katrina-Stalcup-About-0.jpeg" alt="">
+                    <img class="w-100 grow purple-border-thick" src="~/assets/img/about/Katrina-Stalcup-About-0.jpeg" alt="">
                   </div>
                   <div class="w-100 text-center">
                     <img class="w-80 mt7 spin" src="~/assets/img/about/Katrina-Stalcup-About-10.png" alt="">
-
                   </div>
                 </div>
               </div>
               <div class="item w-60">
                 <div class="w-90 mt7 float-right">
-                  <img class="w-100 shrink" src="~/assets/img/about/Katrina-Stalcup-About-1.jpeg" alt="">
+                  <img class="w-100 grow" src="~/assets/img/about/Katrina-Stalcup-Art-25.jpeg" alt="">
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="w-100">
-                <img class="w-100 mt7 shrink" src="~/assets/img/about/Katrina-Stalcup-About-3.jpeg" alt="">
-
+                <img class="w-100 mt5 grow" src="~/assets/img/about/Katrina-Stalcup-About-3.jpeg" alt="">
               </div>
             </div>
-            <div class="item mt7 float-right">
-              <div class="w-50 float-right">
-                <img class="w-100 shrink" src="~/assets/img/about/Katrina-Stalcup-About-5.jpeg" alt="">
+            <div class="item mt5 float-right">
+              <div class="w-60 float-right mb3">
+                <img class="w-100 grow" src="~/assets/img/about/Katrina-Stalcup-Art-29.jpeg" alt="">
               </div>
             </div>
             <div class="item mt9">
@@ -55,6 +53,12 @@
                 </div>
               </div>
             </div>
+            <div class="item mt3">
+              <div class="w-50">
+                <img class="w-85 grow" src="~/assets/img/about/Katrina-Stalcup-About-5.jpeg" alt="">
+              </div>
+            </div>
+            <div class="spacer"></div>
           </div>
         </div>
       </div>

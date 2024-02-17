@@ -438,6 +438,14 @@ h6 {
     margin-bottom: 0;
 }
 
+.mb3 {
+    margin-bottom: 1rem;
+}
+
+.mb5 {
+    margin-bottom: 2rem;
+}
+
 .bg-white {
     background-color: white;
 }
@@ -462,6 +470,17 @@ h6 {
     color: white;
 }
 
+.spacer {
+    height: 50vw;
+}
+
+
+
+
+.white:hover{
+    transition: all 0.3s ease-in-out 0s;
+    color: #ae91ff;
+}
 
 .shrink:hover{
     cursor: default;
@@ -496,7 +515,7 @@ h6 {
 
 .purple-border-thick{
     border: 1px solid var(--purple);
-    border-width: 1em;
+    border-width: 0.5em;
 }
 
 .red-border{
@@ -511,17 +530,17 @@ h6 {
 
 .purple-border-thick:hover{
     border: 1px solid var(--red);
-    border-width: 1em;
+    border-width: .55em;
 }
 
 .white-border {
     border: 1px solid black;
-    border-width: .66em;
+    border-width: .5em;
 }
 
 .white-border:hover{
     border: 1px solid var(--blue);
-    border-width: .66em;
+    border-width: .5em;
     
 }
 
@@ -540,7 +559,7 @@ h6 {
 }
 
 .bg-purple {
-    background-color: #8877d4;
+    background-color: #ae91ff;
 }
 
 .bg-red {
@@ -552,11 +571,16 @@ h6 {
 }
 
 .purple-text {
-    color: #8877d4;
+    color: #ae91ff;
 }
 
 .purple-text:hover {
     color: #2877ff;
+    transition: all 0.3s ease-in-out 0s;
+}
+
+.purple-text:active{
+    color: #ff2830;
 }
 
 .darkpurple-text{
@@ -582,8 +606,8 @@ p:hover {
 .grid {
     background-size: 1.5rem 1.5rem;
     background-image:
-        linear-gradient(to right, #8877d4 1px, transparent 1px),
-        linear-gradient(to bottom, #8877d4 1px, transparent 1px);
+        linear-gradient(to right, #7c67d9 1px, transparent 1px),
+        linear-gradient(to bottom, #7c67d9 1px, transparent 1px);
 }
 
 @media screen and (max-width: 870px) {
