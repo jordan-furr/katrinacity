@@ -7,32 +7,31 @@
             <div class="flex flex-row space-between w-100 mt2 mb5">
               <div class="item w-50">
                 <div class="w-100">
-                  <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-45.jpeg" alt="">
+                  <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-39.jpeg" alt="">
                 </div>
               </div>
-              <div class="flex flex-col w-40">
+              <div class="flex flex-col w-40 align-center">
                 <div class="item w-90">
                   <div class="w-100 text-center">
-                    <img class="w-100 spin" src="~/assets/img/art/Katrina-Stalcup-Art-64.jpeg" alt="">
+                    <img class="w-100 " src="~/assets/img/art/Katrina-Stalcup-Art-20.jpeg" alt="">
                   </div>
                 </div>
                 <div class="item w-90">
                   <div class="w-100 text-center">
-                    <img class="w-100 neg-spin" src="~/assets/img/art/Katrina-Stalcup-Art-49.jpeg" alt="">
+                    <img class="w-100 small-spin" src="~/assets/img/art/Katrina-Stalcup-Art-49.jpeg" alt="">
                   </div>
                 </div>
               </div>
             </div>
             <div class="item mb3">
-              <div class="w-90 margin-a">
-                <img class="w-100" src="~/assets/img/art/Katrina-Art.jpeg" alt="">
+              <div class="w-80 margin-a">
+                <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-56.jpeg" alt="">
               </div>
             </div>
-           
-            <div class="flex flex-row mt8 w-100">
+            <div class="flex flex-row mt9 mb8 w-100">
               <div class="item w-55">
                 <div class="w-90">
-                  <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-20.jpeg" alt="">
+                  <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-45.jpeg" alt="">
                 </div>
               </div>
               <div class="item w-45">
@@ -41,17 +40,17 @@
                 </div>
               </div>
             </div>
-            <div class="item mt6 mb3">
-              <div class="w-60">
-                <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-9.jpeg" alt="">
+            <div class="item mt7 mb4">
+              <div class="w-66">
+                <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-47.jpeg" alt="">
               </div>
             </div>
-            <div class="item mb3 w-100">
-              <div class="w-70 margin-a">
-                <img class="w-100 bright shrink mb5" src="~/assets/img/art/Katrina-Stalcup-Art-56.jpeg" alt="">
+            <div class="item mt4 mb4">
+              <div class="w-80 pa5 margin-a">
+                <img class="w-100" src="~/assets/img/art/Katrina-Art.jpeg" alt="">
               </div>
             </div>
-            <div class="flex flex-row w-100">
+            <div class="flex flex-row space-evenly w-100">
               <div class="item w-50">
                 <div class="w-100">
                   <img class="w-100 grow" src="~/assets/img/art/Katrina-Stalcup-Art-0.jpeg" alt="">
@@ -63,6 +62,39 @@
                 </div>
               </div>
             </div>
+
+            <div class="item w-60">
+              <div class="item mt7 mb4">
+                <div class="w-100 pa6 mt6">
+                  <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-51.jpeg" alt="">
+                </div>
+              </div>
+            </div>
+
+            <div class="flex flex-row space-evenly w-100">
+              <div class="item w-45">
+                <div class="item mt7 mb4">
+                  <div class="w-100 pa6 mt6 margin-a">
+                    <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-48.jpeg" alt="">
+                  </div>
+                </div>
+              </div>
+              <div class="item w-45">
+                <div class="item mt7 mb4">
+                  <div class="w-100 pa6 mt6 margin-a">
+                    <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-63.jpeg" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item w-60 float-right">
+              <div class="item">
+                <div class="w-100 pa6 mt6">
+                  <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-9.jpeg" alt="">
+                </div>
+              </div>
+            </div>
+            <div class="spacer"></div>
             <div class="spacer"></div>
           </div>
         </div>
