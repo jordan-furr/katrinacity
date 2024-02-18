@@ -2,34 +2,68 @@
   <div class="h-92 flex flex-row">
     <div class="main-section pl3 pb3 w-80">
       <div class="grid overflow-y h-100">
-        <div class="pa5 relative">
+        <div class="grid-layout">
           <div class="home-content">
-            <div class="flex flex-row">
-              <div class="item">
-                <img class="w-30" src="~/assets/img/flowers.jpeg" alt="">
-                <p>e</p>
+            <div class="flex flex-row space-between w-100 mt2 mb5">
+              <div class="item w-50">
+                <div class="w-100">
+                  <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-45.jpeg" alt="">
+                </div>
               </div>
-              <div class="item">
-                <img class="w-30" src="~/assets/img/flowers.jpeg" alt="">
-                <p>e</p>
+              <div class="flex flex-col w-40">
+                <div class="item w-90">
+                  <div class="w-100 text-center">
+                    <img class="w-100 spin" src="~/assets/img/art/Katrina-Stalcup-Art-64.jpeg" alt="">
+                  </div>
+                </div>
+                <div class="item w-90">
+                  <div class="w-100 text-center">
+                    <img class="w-100 neg-spin" src="~/assets/img/art/Katrina-Stalcup-Art-49.jpeg" alt="">
+                  </div>
+                </div>
               </div>
             </div>
-            <div class="item">
-              <img class="w-30" src="~/assets/img/flowers.jpeg" alt="">
-              <p>e</p>
+            <div class="item mb3">
+              <div class="w-90 margin-a">
+                <img class="w-100" src="~/assets/img/art/Katrina-Art.jpeg" alt="">
+              </div>
             </div>
-            <div class="item">
-              <img class="w-30" src="~/assets/img/flowers.jpeg" alt="">
-              <p>e</p>
+           
+            <div class="flex flex-row mt8 w-100">
+              <div class="item w-55">
+                <div class="w-90">
+                  <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-20.jpeg" alt="">
+                </div>
+              </div>
+              <div class="item w-45">
+                <div class="w-100 float-right">
+                  <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-23.jpeg" alt="">
+                </div>
+              </div>
             </div>
-            <div class="item">
-              <img class="w-30" src="~/assets/img/flowers.jpeg" alt="">
-              <p>e</p>
+            <div class="item mt6 mb3">
+              <div class="w-60">
+                <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-9.jpeg" alt="">
+              </div>
             </div>
-            <div class="item">
-              <img class="w-30" src="~/assets/img/flowers.jpeg" alt="">
-              <p>e</p>
+            <div class="item mb3 w-100">
+              <div class="w-70 margin-a">
+                <img class="w-100 bright shrink mb5" src="~/assets/img/art/Katrina-Stalcup-Art-56.jpeg" alt="">
+              </div>
             </div>
+            <div class="flex flex-row w-100">
+              <div class="item w-50">
+                <div class="w-100">
+                  <img class="w-100 grow" src="~/assets/img/art/Katrina-Stalcup-Art-0.jpeg" alt="">
+                </div>
+              </div>
+              <div class="item w-50">
+                <div class="w-90 float-right">
+                  <img class="w-100 grow" src="~/assets/img/art/Katrina-Stalcup-Art-37.jpeg" alt="">
+                </div>
+              </div>
+            </div>
+            <div class="spacer"></div>
           </div>
         </div>
       </div>
@@ -49,7 +83,8 @@
         <p>Fabric of a Nation. Museum of Fine Arts Boston, July 2022.</p>
         <p>Radical Tradition: American Quilts and Social Change. Toledo Museum of Art, February 2021.</p>
         <br>
-        <p>Katrina has been commissioned for clothing articles and full size quilts including a memoriam quilt using dozens of heirloom bandanas and silks.</p>
+        <p>Katrina has been commissioned for clothing articles and full size quilts including a memoriam quilt using
+          dozens of heirloom bandanas and silks.</p>
         <br>
         <p>Katrina's favorite yarn store in New York is Downtown Yarns off Avenue A.</p>
         <br>

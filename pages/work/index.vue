@@ -2,7 +2,7 @@
   <div class="h-92 flex flex-row">
     <div class="main-section pl3 pb3 w-80">
       <div class="grid overflow-y h-100">
-        <div class="pa5 relative">
+        <div class="grid-layout">
           <div class="home-content">
             <div class="flex flex-row">
               <div class="item">
