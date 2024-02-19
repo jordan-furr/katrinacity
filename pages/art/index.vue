@@ -52,7 +52,7 @@
               <div class="w-100 pa3 facts bg-purple">
                 <p>Katrina utilizes fiber (fabric, yarn, thread), bead, metal, acrylic, needle, hook, and machine. </p>
                 <br>
-                <p>Katrina practices sustainable repurpose of material.</p>
+                <p>Katrina repurposes second-hand and recycled material.</p>
               </div>
             </div>
             <div class="item mt8 mb4">
@@ -92,14 +92,21 @@
                 </div>
               </div>
             </div>
-            <div class="mobile-info w-100 flex margin-a">
+            <div class="mobile-info w-80 flex margin-a">
               <div class="w-100 pa3 facts bg-purple">
-                <p>EXIBITION INSPIRATIONS</p>
-                <p>Fabric of a Nation. Museum of Fine Arts Boston, July 2022.</p>
-                <p>Radical Tradition: American Quilts and Social Change. Toledo Museum of Art, February 2021.</p>
+                <p>Katrina has been commissioned for clothing articles and full size quilts including a memoriam quilt
+                  using
+                  dozens of heirloom bandanas and silks.</p>
+                <br>
+                <p>Katrina's favorite yarn store in New York is Downtown Yarns off Avenue A.</p>
+                <br>
+                <p>Katrina has used a Janome sewing machine and is looking for a replacement.</p>
+                <br>
+                <p>Katrina is working on an upcoming magazine project.</p>
+
               </div>
             </div>
-            <div class="flex flex-row space-evenly w-100">
+            <div class="flex flex-row space-between w-100">
               <div class="item w-45">
                 <div class="item mt7 mb4">
                   <div class="w-100 pa6 mt6 margin-a">
@@ -115,7 +122,12 @@
                 </div>
               </div>
             </div>
-            <div class="item w-60 float-right">
+            <div class="mobile-info w-60 flex float-right">
+              <div class="w-100 pa3 facts bg-purple">
+                <p>Katrina likes to listen to Leonard Cohen while creating.</p>
+              </div>
+            </div>
+            <div class="item w-60 float-right overflow-auto">
               <div class="item">
                 <div class="w-100 pa6 mt6">
                   <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-9.jpeg" alt="">
