@@ -13,7 +13,7 @@ body {
     line-height: 1.15;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: rgb(28, 13, 85);
-    font-size: 105%;
+    font-size: 1.05rem;
     scroll-behavior: smooth;
 }
 
@@ -101,6 +101,15 @@ h6 {
     margin: 0;
 }
 
+.margin-a {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
 .under-hov {
     text-decoration: none;
 }
@@ -117,8 +126,16 @@ h6 {
     width: 100%;
 }
 
+.w-90 {
+    width: 90%;
+}
+
+.w-85 {
+    width: 85%;
+}
+
 .w-80 {
-    width: 80vw;
+    width: 80%;
 }
 
 .w-75 {
@@ -141,6 +158,14 @@ h6 {
     width: 50%;
 }
 
+.w-55 {
+    width: 55%;
+}
+
+.w-45 {
+    width: 45%;
+}
+
 .w-40 {
     width: 40%;
 }
@@ -159,6 +184,10 @@ h6 {
 
 .w-20 {
     width: 20%;
+}
+
+.w-10 {
+    width: 10%;
 }
 
 .h-100 {
@@ -249,11 +278,19 @@ h6 {
     padding-left: 1rem;
 }
 
+.pl5 {
+    padding-left: 2rem;
+}
+
+.pl7 {
+    padding-left: 3rem;
+}
+
 .pr1 {
     padding-right: 0.25rem;
 }
 
-.pr3{
+.pr3 {
     padding-right: 1rem;
 }
 
@@ -287,17 +324,17 @@ h6 {
     padding-top: 0.25rem;
 }
 
-.pv2{
+.pv2 {
     padding-bottom: 0.5rem;
     padding-top: 0.5rem;
 }
 
-.pv3{
+.pv3 {
     padding-bottom: 1rem;
     padding-top: 1rem;
 }
 
-.pv4{
+.pv4 {
     padding-bottom: 1.5rem;
     padding-top: 1.5rem;
 }
@@ -316,6 +353,38 @@ h6 {
 
 .mt1 {
     margin-top: 1px;
+}
+
+.mt3 {
+    margin-top: 1rem;
+}
+
+.mt4 {
+    margin-top: 1.5rem;
+}
+
+.mt5 {
+    margin-top: 2rem;
+}
+
+.mt6 {
+    margin-top: 2.5rem;
+}
+
+.mt7 {
+    margin-top: 3rem;
+}
+
+.mt8 {
+    margin-top: 4rem;
+}
+
+.mt9 {
+    margin-top: 5rem;
+}
+
+.mt14 {
+    margin-top: 10rem;
 }
 
 .ma2 {
@@ -353,8 +422,44 @@ h6 {
     margin-left: 1.5rem;
 }
 
+.ml5 {
+    margin-left: 2rem;
+}
+
+.ml6 {
+    margin-left: 2.5rem;
+}
+
+.ml7 {
+    margin-left: 3rem;
+}
+
+.ml8 {
+    margin-left: 4rem;
+}
+
+.ml9 {
+    margin-left: 5rem;
+}
+
+.mr0 {
+    margin-right: 0;
+}
+
 .mb0 {
     margin-bottom: 0;
+}
+
+.mb3 {
+    margin-bottom: 1rem;
+}
+
+.mb4 {
+    margin-bottom: 1.5rem;
+}
+
+.mb5 {
+    margin-bottom: 2rem;
 }
 
 .bg-white {
@@ -369,15 +474,134 @@ h6 {
     overflow-y: scroll;
 }
 
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+.white {
+    color: white;
+}
+
+.overflow-auto {
+    overflow: auto;
+}
 
 
 
 
+.spacer {
+    height: 100px;
+}
 
+.small-spacer {
+    height: 50px;
+}
 
+.white:hover {
+    transition: all 0.3s ease-in-out 0s;
+    color: #ae91ff;
+}
+
+.shrink:hover {
+    cursor: default;
+    transform: scale(98%);
+    transition: all 0.3s ease-in-out 0s;
+}
+
+.grow:hover {
+    cursor: default;
+    transform: scale(102%);
+    transition: all 0.3s ease-in-out 0s;
+}
+
+.spin:hover {
+    cursor: default;
+    transform: rotate(15deg);
+    transition: all 0.6s ease-in-out 0s;
+}
+
+.small-spin:hover {
+    cursor: default;
+    transform: rotate(4deg);
+    transition: all 0.6s ease-in-out 0s;
+}
+
+.neg-spin:hover {
+    cursor: default;
+    transform: rotate(-4deg);
+    transition: all 0.6s ease-in-out 0s;
+}
+
+.hover-bright:hover {
+    filter: brightness(150%);
+}
+
+.bright:hover {
+    filter: brightness(110%);
+    transition: all 0.3s ease-in-out 0s;
+
+}
+
+.saturate:hover {
+    filter: saturate(200%);
+}
+
+.red-border-thick {
+    border: 1px solid var(--red);
+    border-width: 1em;
+}
+
+.purple-border-thick {
+    border: 1px solid var(--purple);
+    border-width: 0.5em;
+}
+
+.red-border {
+    border: 1px solid var(--red);
+    border-width: 0.33em;
+}
+
+.red-border-thick:hover {
+    border: 1px solid var(--purple);
+    border-width: 1em;
+}
+
+.purple-border-thick:hover {
+    border: 1px solid var(--red);
+    border-width: .55em;
+}
+
+.white-border {
+    border: 1px solid black;
+    border-width: .5em;
+}
+
+.white-border:hover {
+    border: 1px solid var(--blue);
+    border-width: .5em;
+
+}
+
+.grid-layout {
+    padding: 2rem;
+}
+
+.item p {
+    color: white;
+    margin-top: 0.25rem;
+    font-size: 0.9rem;
+}
+
+.item p:hover {
+    color: white;
+}
 
 .bg-purple {
-    background-color: #8877d4;
+    background-color: #ae91ff;
 }
 
 .bg-red {
@@ -394,9 +618,14 @@ h6 {
 
 .purple-text:hover {
     color: #2877ff;
+    transition: all 0.3s ease-in-out 0s;
 }
 
-.darkpurple-text{
+.purple-text:active {
+    color: #ff2830;
+}
+
+.darkpurple-text {
     color: rgb(28, 13, 85);
 }
 
@@ -413,20 +642,36 @@ p:hover {
 }
 
 .item {
-    margin-bottom: 1.5rem;
-    position: relative;
+    margin-bottom: 2rem;
 }
+
 
 .grid {
     background-size: 1.5rem 1.5rem;
     background-image:
-        linear-gradient(to right, #8877d4 1px, transparent 1px),
-        linear-gradient(to bottom, #8877d4 1px, transparent 1px);
+        linear-gradient(to right, #7c67d9 1px, transparent 1px),
+        linear-gradient(to bottom, #7c67d9 1px, transparent 1px);
+}
+
+@media screen and (min-width: 871px) {
+    .mobile-info {
+        display: none;
+    }
 }
 
 @media screen and (max-width: 870px) {
+    .item p {
+        color: white;
+        margin-top: 0.25rem;
+        font-size: 0.5rem;
+    }
+
     p {
-        color: orange;
+        font-size: 0.88rem;
+    }
+
+    .grid-layout {
+        padding: 1.25rem
     }
 
     .info-section {
@@ -436,6 +681,10 @@ p:hover {
     .main-section {
         width: 100%;
         padding-right: 1rem;
+    }
+
+    .item {
+        margin-bottom: 1.5rem;
     }
 
     .grid {
