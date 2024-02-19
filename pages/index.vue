@@ -7,7 +7,7 @@
                         <div class="flex flex-row w-100">
                             <div class="item w-50">
                                 <div class="w-100">
-                                    <img class="w-100 grow" src="~/assets/img/art/Katrina-Stalcup-Art-6.jpeg" alt="">
+                                    <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-6.jpeg" alt="">
                                 </div>
                             </div>
                             <div class="item w-50">
@@ -16,11 +16,22 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="item mt4">
-                            <div class="w-100">
-                                <img class="w-100 bright shrink" src="~/assets/img/photo/Katrina-Stalcup-Photo-0.jpeg" alt="">
+                        <div class="mobile-info w-75 flex mb4 float-right">
+                            <div class="w-100 pa3 facts bg-purple">
+                                <h4>Welcome to Katrina City.</h4>
+                                <p>Population: 2</p>
+                                <br>
+                                <p>Hey there! Take a look around and click on stuff to find out more. I hope you see
+                                    something that inspires
+                                    you. </p>
                             </div>
                         </div>
+                        <div class="item mt4">
+                            <div class="w-100">
+                                <img class="w-100" src="~/assets/img/photo/Katrina-Stalcup-Photo-0.jpeg" alt="">
+                            </div>
+                        </div>
+                       
                         <div class="flex flex-row w-100 mt6">
                             <div class="item w-50">
                                 <div class="w-90">
@@ -40,22 +51,32 @@
                         </div>
                         <div class="flex flex-row">
                             <div class="item w-40">
-                                <div class="w-90 ml4 mt5 float-right">
-                                    <img class="w-100 shrink" src="~/assets/img/art/Katrina-Stalcup-Art-53.jpeg" alt="">
+                                <div class="w-100 ml3 mt5 float-right">
+                                    <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-53.jpeg" alt="">
                                 </div>
                             </div>
                             <div class="item w-60">
                                 <div class="w-80 mt9 margin-a">
-                                    <img class="w-100 shrink"
-                                        src="~/assets/img/art/Katrina-Stalcup-Art-12.jpeg" alt="">
+                                    <img class="w-100 grow" src="~/assets/img/art/Katrina-Stalcup-Art-12.jpeg" alt="">
                                 </div>
                             </div>
                             <div class="spacer"></div>
                         </div>
-                        <div class="item mt7">
-                            <div class="margin-a w-70">
-                                <img class="w-100 bright shrink" src="~/assets/img/art/Katrina-Stalcup-Art-22.jpeg"
-                                    alt="">
+                        <div class="mobile-info w-60 flex mb4 text-center">
+                            <div class="w-100 pa3 facts bg-purple">
+                                <p>CONTACT</p>
+                                <p>kat.stalcup@gmail.com</p>
+                                <p>Studio IG @samewave7</p>
+                            </div>
+                        </div>
+                        <div class="item mt3 overflow-auto">
+                            <div class="float-right w-70">
+                                <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-22.jpeg" alt="">
+                            </div>
+                        </div>
+                        <div class="item mt5 overflow-auto">
+                            <div class="w-100">
+                                <img class="w-100" src="~/assets/img/photo/Katrina-Stalcup-Photo-6.jpeg" alt="">
                             </div>
                         </div>
                         <div class="spacer"></div>
@@ -68,12 +89,16 @@
                 <h4>Welcome to Katrina City.</h4>
                 <p>Population: 2</p>
                 <br>
-                <p>Hey there! Take a look around and click on stuff to find out more. I hope you see something that inspires
+                <p>Hey there! Take a look around. I hope you see something that inspires
                     you. </p>
-                <br>
-                <br>
+                <div class="item mt5 mb5 margin-a">
+                    <div class="w-100">
+                        <img class="w-100 small-spin" src="~/assets/img/art/Katrina-Stalcup-Art-58.jpeg" alt="">
+                    </div>
+                </div>
+                <p>CONTACT</p>
                 <p>kat.stalcup@gmail.com</p>
-                <br>
+                <p>Studio IG @samewave7</p>
             </div>
         </div>
     </div>

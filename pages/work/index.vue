@@ -17,7 +17,7 @@
               </div>
               <div class="spacer"></div>
             </div>
-            <div class="mobile-info w-100 flex mb4">
+            <div class="mobile-info w-66 flex mb4">
               <div class="w-100 pa3 facts bg-purple">
                 <p>Katrina Stalcup is a multi-experienced professional based in Brooklyn, NY.</p>
                 <br>
@@ -30,16 +30,26 @@
                 <img class="w-100" src="~/assets/img/photo/Katrina-Stalcup-Photo-7.jpeg" alt="">
               </div>
             </div>
-            <div class="mobile-info w-100 flex mb4">
+            <div class="mobile-info w-80 flex mb5 float-right">
               <div class="w-100 pa3 facts bg-purple">
-                <p>Katrina has been working full-time in the start-up space since 2021 and loves the demand for solving
+                <p>Katrina has been working in the start-up space since 2021 and loves the demand for solving
                   big
                   problems, iterating, and taking many roles.</p>
                 <br>
                 <p>Katrina cares about meaning making and critical thinking.</p>
               </div>
             </div>
-            <div class="flex flex-row space-between w-100 mt9 mb5">
+            <div class="mobile-info w-45 flex mb5 float-right">
+              <div class="w-100 pa3 facts bg-purple">
+                <p>PROJECTS</p>
+                <p>Eli Tea Bar</p>
+                <p>STAR Laces</p>
+                <p>No Rent MI</p>
+                <p>Green Butterfly</p>
+                <p>SAMEWAVE7</p>
+              </div>
+            </div>
+            <div class="flex flex-row space-between w-100 mt9 mb2">
               <div class="item w-50">
                 <div class="w-90 text-center">
                   <img class="w-100 small-spin" src="~/assets/img/art/Katrina-Stalcup-Art-64.jpeg" alt="">
@@ -51,20 +61,17 @@
                 </div>
               </div>
             </div>
-            <div class="mobile-info w-100 flex mb4">
+            
+            <div class="mobile-info w-85 mt5 flex mb4">
               <div class="w-100 pa3 facts bg-purple">
-                <p>Katrina has contributed to early stage projects since 2014.</p>
-                <p>- Eli Tea Bar</p>
-                <p>- STAR Laces</p>
-                <p>- No Rent MI</p>
-                <p>- Green Butterfly</p>
-                <p>- SAMEWAVE7</p>
-                <br>
                 <p>Katrina graduated in 2020 from The University of Michigan with an honors degree in American Culture.
                 </p>
                 <br>
                 <p>Katrina studied at Hampsire College from 2016-2018.</p>
-                <br>
+              </div>
+            </div>
+            <div class="mobile-info w-100 flex">
+              <div class="w-100 pa3 facts bg-purple">
                 <p>On the weekend Katrina likes to dream with other creators and entrepreneurs while working on art
                   projects.</p>
               </div>
@@ -81,7 +88,7 @@
         <p>CONTACT</p>
         <p>kat.stalcup@gmail.com</p>
         <br>
-        <p>Katrina has been working full-time in the start-up space since 2021 and loves the demand for solving big
+        <p>Katrina has been working in the start-up space since 2021 and loves the demand for solving big
           problems, iterating, and taking many roles.</p>
         <br>
         <p>Katrina cares about meaning making and critical thinking.</p>

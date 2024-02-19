@@ -101,12 +101,12 @@ h6 {
     margin: 0;
 }
 
-.margin-a{
+.margin-a {
     margin-left: auto;
     margin-right: auto;
 }
 
-.text-center{
+.text-center {
     text-align: center;
 }
 
@@ -126,7 +126,7 @@ h6 {
     width: 100%;
 }
 
-.w-90{
+.w-90 {
     width: 90%;
 }
 
@@ -186,7 +186,7 @@ h6 {
     width: 20%;
 }
 
-.w-10{
+.w-10 {
     width: 10%;
 }
 
@@ -278,11 +278,11 @@ h6 {
     padding-left: 1rem;
 }
 
-.pl5{
+.pl5 {
     padding-left: 2rem;
 }
 
-.pl7{
+.pl7 {
     padding-left: 3rem;
 }
 
@@ -290,7 +290,7 @@ h6 {
     padding-right: 0.25rem;
 }
 
-.pr3{
+.pr3 {
     padding-right: 1rem;
 }
 
@@ -324,17 +324,17 @@ h6 {
     padding-top: 0.25rem;
 }
 
-.pv2{
+.pv2 {
     padding-bottom: 0.5rem;
     padding-top: 0.5rem;
 }
 
-.pv3{
+.pv3 {
     padding-bottom: 1rem;
     padding-top: 1rem;
 }
 
-.pv4{
+.pv4 {
     padding-bottom: 1.5rem;
     padding-top: 1.5rem;
 }
@@ -359,19 +359,19 @@ h6 {
     margin-top: 1rem;
 }
 
-.mt4{
+.mt4 {
     margin-top: 1.5rem;
 }
 
-.mt5{
+.mt5 {
     margin-top: 2rem;
 }
 
-.mt6{
+.mt6 {
     margin-top: 2.5rem;
 }
 
-.mt7{
+.mt7 {
     margin-top: 3rem;
 }
 
@@ -381,6 +381,10 @@ h6 {
 
 .mt9 {
     margin-top: 5rem;
+}
+
+.mt14 {
+    margin-top: 10rem;
 }
 
 .ma2 {
@@ -422,15 +426,15 @@ h6 {
     margin-left: 2rem;
 }
 
-.ml6{
+.ml6 {
     margin-left: 2.5rem;
 }
 
-.ml7{
+.ml7 {
     margin-left: 3rem;
 }
 
-.ml8{
+.ml8 {
     margin-left: 4rem;
 }
 
@@ -438,7 +442,7 @@ h6 {
     margin-left: 5rem;
 }
 
-.mr0{
+.mr0 {
     margin-right: 0;
 }
 
@@ -470,37 +474,45 @@ h6 {
     overflow-y: scroll;
 }
 
-.float-right{
+.float-right {
     float: right;
 }
 
-.float-left{
+.float-left {
     float: left;
 }
 
-.white{
+.white {
     color: white;
 }
+
+.overflow-auto {
+    overflow: auto;
+}
+
+
+
 
 .spacer {
     height: 100px;
 }
 
+.small-spacer {
+    height: 50px;
+}
 
-
-
-.white:hover{
+.white:hover {
     transition: all 0.3s ease-in-out 0s;
     color: #ae91ff;
 }
 
-.shrink:hover{
+.shrink:hover {
     cursor: default;
     transform: scale(98%);
     transition: all 0.3s ease-in-out 0s;
 }
 
-.grow:hover{
+.grow:hover {
     cursor: default;
     transform: scale(102%);
     transition: all 0.3s ease-in-out 0s;
@@ -524,41 +536,41 @@ h6 {
     transition: all 0.6s ease-in-out 0s;
 }
 
-.hover-bright:hover{
+.hover-bright:hover {
     filter: brightness(150%);
 }
 
-.bright:hover{
+.bright:hover {
     filter: brightness(110%);
     transition: all 0.3s ease-in-out 0s;
 
 }
 
-.saturate:hover{
+.saturate:hover {
     filter: saturate(200%);
 }
 
-.red-border-thick{
+.red-border-thick {
     border: 1px solid var(--red);
     border-width: 1em;
 }
 
-.purple-border-thick{
+.purple-border-thick {
     border: 1px solid var(--purple);
     border-width: 0.5em;
 }
 
-.red-border{
+.red-border {
     border: 1px solid var(--red);
     border-width: 0.33em;
 }
 
-.red-border-thick:hover{
+.red-border-thick:hover {
     border: 1px solid var(--purple);
     border-width: 1em;
 }
 
-.purple-border-thick:hover{
+.purple-border-thick:hover {
     border: 1px solid var(--red);
     border-width: .55em;
 }
@@ -568,13 +580,13 @@ h6 {
     border-width: .5em;
 }
 
-.white-border:hover{
+.white-border:hover {
     border: 1px solid var(--blue);
     border-width: .5em;
-    
+
 }
 
-.grid-layout{
+.grid-layout {
     padding: 2rem;
 }
 
@@ -584,7 +596,7 @@ h6 {
     font-size: 0.9rem;
 }
 
-.item p:hover{
+.item p:hover {
     color: white;
 }
 
@@ -601,7 +613,7 @@ h6 {
 }
 
 .purple-text {
-    color: #ae91ff;
+    color: #8877d4;
 }
 
 .purple-text:hover {
@@ -609,11 +621,11 @@ h6 {
     transition: all 0.3s ease-in-out 0s;
 }
 
-.purple-text:active{
+.purple-text:active {
     color: #ff2830;
 }
 
-.darkpurple-text{
+.darkpurple-text {
     color: rgb(28, 13, 85);
 }
 
@@ -641,6 +653,12 @@ p:hover {
         linear-gradient(to bottom, #7c67d9 1px, transparent 1px);
 }
 
+@media screen and (min-width: 871px) {
+    .mobile-info {
+        display: none;
+    }
+}
+
 @media screen and (max-width: 870px) {
     .item p {
         color: white;
@@ -648,7 +666,11 @@ p:hover {
         font-size: 0.5rem;
     }
 
-    .grid-layout{
+    p {
+        font-size: 0.88rem;
+    }
+
+    .grid-layout {
         padding: 1.25rem
     }
 

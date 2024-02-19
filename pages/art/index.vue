@@ -4,7 +4,7 @@
       <div class="grid overflow-y h-100">
         <div class="grid-layout">
           <div class="home-content">
-            <div class="flex flex-row space-between w-100 mt2 mb5">
+            <div class="flex flex-row space-between w-100 mt2 mb3">
               <div class="item w-50">
                 <div class="w-100">
                   <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-39.jpeg" alt="">
@@ -23,12 +23,20 @@
                 </div>
               </div>
             </div>
+            <div class="mobile-info w-70 flex mb5">
+              <div class="w-100 pa3 facts bg-purple">
+                <p>Katrina Stalcup practices art under studio SAMEWAVE7</p>
+                <br>
+                <p>COMMISSIONS</p>
+                <p>samewave7@gmail.com</p>
+              </div>
+            </div>
             <div class="item mb3">
               <div class="w-80 margin-a">
                 <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-56.jpeg" alt="">
               </div>
             </div>
-            <div class="flex flex-row mt9 mb8 w-100">
+            <div class="flex flex-row mt8 mb5 w-100">
               <div class="item w-55">
                 <div class="w-90">
                   <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-45.jpeg" alt="">
@@ -40,17 +48,31 @@
                 </div>
               </div>
             </div>
-            <div class="item mt7 mb4">
+            <div class="mobile-info w-80 flex mb4 float-right">
+              <div class="w-100 pa3 facts bg-purple">
+                <p>Katrina utilizes fiber (fabric, yarn, thread), bead, metal, acrylic, needle, hook, and machine. </p>
+                <br>
+                <p>Katrina practices sustainable repurpose of material.</p>
+              </div>
+            </div>
+            <div class="item mt8 mb4">
               <div class="w-66">
-                <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-47.jpeg" alt="">
+                <img class="w-90" src="~/assets/img/art/Katrina-Stalcup-Art-47.jpeg" alt="">
               </div>
             </div>
-            <div class="item mt4 mb4">
-              <div class="w-80 pa5 margin-a">
-                <img class="w-100" src="~/assets/img/art/Katrina-Art.jpeg" alt="">
+            <div class="item mt5 mb5">
+              <div class="w-90 pa5 margin-a">
+                <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-30.jpeg" alt="">
               </div>
             </div>
-            <div class="flex flex-row space-evenly w-100">
+            <div class="mobile-info w-100 flex margin-a">
+              <div class="w-100 pa3 facts bg-purple">
+                <p>EXIBITION INSPIRATIONS</p>
+                <p>Fabric of a Nation. Museum of Fine Arts Boston, July 2022.</p>
+                <p>Radical Tradition: American Quilts and Social Change. Toledo Museum of Art, February 2021.</p>
+              </div>
+            </div>
+            <div class="flex flex-row space-evenly mt7 w-100">
               <div class="item w-50">
                 <div class="w-100">
                   <img class="w-100 grow" src="~/assets/img/art/Katrina-Stalcup-Art-0.jpeg" alt="">
@@ -70,7 +92,13 @@
                 </div>
               </div>
             </div>
-
+            <div class="mobile-info w-100 flex margin-a">
+              <div class="w-100 pa3 facts bg-purple">
+                <p>EXIBITION INSPIRATIONS</p>
+                <p>Fabric of a Nation. Museum of Fine Arts Boston, July 2022.</p>
+                <p>Radical Tradition: American Quilts and Social Change. Toledo Museum of Art, February 2021.</p>
+              </div>
+            </div>
             <div class="flex flex-row space-evenly w-100">
               <div class="item w-45">
                 <div class="item mt7 mb4">
