@@ -32,7 +32,7 @@
               </div>
             </div>
             <div class="item mb3">
-              <div class="w-80 margin-a">
+              <div class="w-75 pa4 margin-a">
                 <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-56.jpeg" alt="">
               </div>
             </div>
@@ -52,12 +52,12 @@
               <div class="w-100 pa3 facts bg-purple">
                 <p>Katrina utilizes fiber (fabric, yarn, thread), bead, metal, acrylic, needle, hook, and machine. </p>
                 <br>
-                <p>Katrina repurposes second-hand and recycled material.</p>
+                <p>Katrina repurposes second-hand and recycledgi material.</p>
               </div>
             </div>
             <div class="item mt8 mb4">
               <div class="w-66">
-                <img class="w-90" src="~/assets/img/art/Katrina-Stalcup-Art-47.jpeg" alt="">
+                <img class="w-80 pa4" src="~/assets/img/art/Katrina-Stalcup-Art-47.jpeg" alt="">
               </div>
             </div>
             <div class="item mt5 mb5">
@@ -106,28 +106,21 @@
 
               </div>
             </div>
-            <div class="flex flex-row space-between w-100">
-              <div class="item w-45">
-                <div class="item mt7 mb4">
-                  <div class="w-100 pa6 mt6 margin-a">
-                    <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-48.jpeg" alt="">
-                  </div>
-                </div>
-              </div>
-              <div class="item w-45">
-                <div class="item mt7 mb4">
-                  <div class="w-100 pa6 mt6 margin-a">
-                    <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-63.jpeg" alt="">
-                  </div>
+
+            <div class="item w-80 float-right">
+              <div class="item mt7 mb4">
+                <div class="w-100 pa6 mt6">
+                  <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-63.jpeg" alt="">
                 </div>
               </div>
             </div>
+
             <div class="mobile-info w-60 flex float-right">
               <div class="w-100 pa3 facts bg-purple">
                 <p>Katrina likes to listen to Leonard Cohen while creating.</p>
               </div>
             </div>
-            <div class="item w-60 float-right overflow-auto">
+            <div class="item w-60 float-right">
               <div class="item">
                 <div class="w-100 pa6 mt6">
                   <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-9.jpeg" alt="">
@@ -140,7 +133,7 @@
         </div>
       </div>
     </div>
-    <div class="info-section w-20 flex pr3 pb3">
+    <div class="info-section w-20 flex pr3 pb3 h-100">
       <div class="w-100 pa4 facts bg-purple overflow-y">
         <p>Katrina Stalcup began practicing art under collective SAMEWAVE7 in 2021.</p>
         <br>
