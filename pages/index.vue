@@ -16,7 +16,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="mobile-info w-75 flex mb4 float-right">
+                        <div class="mobile-info w-80 flex mb4 float-right">
                             <div class="w-100 pa3 facts bg-purple">
                                 <h4>Welcome to Katrina City.</h4>
                                 <p>Population: 2</p>
