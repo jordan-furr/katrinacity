@@ -4,3 +4,15 @@
     <NuxtPage />
   </div>
 </template>
+
+<script setup lang="ts">
+useHead({
+  title: 'katrinacity',
+  meta: [
+    { name: 'katrinacity', content: 'Katrina Stalcup' }
+  ],
+  bodyAttrs: {
+    class: 'test'
+  }
+})
+</script>
