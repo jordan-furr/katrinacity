@@ -12,7 +12,7 @@
                             </div>
                             <div class="item w-50">
                                 <div class="w-90 float-right">
-                                    <img class="w-90 blue-border" src="~/assets/img/art/Katrina-Stalcup-Art-11.jpeg" alt="">
+                                    <img class="w-90" src="~/assets/img/art/Katrina-Stalcup-Art-11.jpeg" alt="">
                                 </div>
                             </div>
                         </div>
