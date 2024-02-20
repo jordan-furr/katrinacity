@@ -7,8 +7,8 @@
             <div class="flex flex-row w-100">
               <div class="item w-40">
                 <div class="flex flex-col">
-                  <div class="w-90">
-                    <img class="w-100 grow purple-border-thick" src="~/assets/img/about/Katrina-Stalcup-About-0.jpeg"
+                  <div class="w-95 pl1 pt1">
+                    <img class="w-100 grow purple-border-thick" src="~/assets/img/about/Katrina-Stalcup-About-9.jpeg"
                       alt="">
                   </div>
                   <div class="w-100 text-center">
@@ -18,7 +18,7 @@
               </div>
               <div class="item w-60">
                 <div class="w-90 mt7 float-right">
-                  <img class="w-100 grow" src="~/assets/img/about/Katrina-Stalcup-Art-25.jpeg" alt="">
+                  <img class="w-100 grow" src="~/assets/img/about/museum.jpeg" alt="">
                 </div>
               </div>
             </div>
@@ -57,7 +57,7 @@
             </div>
             <div class="item mt9">
               <div class="w-75">
-                <img class="w-100 white-border shrink" src="~/assets/img/about/Katrina-Stalcup-About-9.jpeg" alt="">
+                <img class="w-100 white-border shrink" src="~/assets/img/about/Katrina-Stalcup-About-0.jpeg" alt="">
               </div>
             </div>
             <div class="item mt8">
@@ -102,8 +102,8 @@
         </div>
       </div>
     </div>
-    <div class="info-section w-20 flex pr3 pb3">
-      <div class="w-100 pa4 facts bg-purple red-text overflow-y">
+    <div class="info-section w-20 flex pr3 pb3 h-98">
+      <div class="w-100 pa4 facts bg-purple overflow-y">
         <p>Katrina Stalcup is an artist and thinker based in Brooklyn, NY.</p>
         <br>
         <p>CONTACT</p>
