@@ -7,12 +7,12 @@
             <div class="flex flex-row">
               <div class="item w-40">
                 <div class="w-100 mt1 float-left">
-                  <img class="w-100 grow" src="~/assets/img/about/Katrina-Stalcup-About-1.jpeg" alt="">
+                  <img class="w-100 white-bd-still" src="~/assets/img/about/Katrina-Stalcup-About-1.jpeg" alt="">
                 </div>
               </div>
               <div class="item w-55 ">
                 <div class="w-80 mt5 float-right">
-                  <img class="w-100 " src="~/assets/img/photo/Katrina-Stalcup-Photo-3.jpeg" alt="">
+                  <img class="w-100 bright " src="~/assets/img/photo/Katrina-Stalcup-Photo-3.jpeg" alt="">
                 </div>
               </div>
               <div class="spacer"></div>
@@ -27,7 +27,7 @@
             </div>
             <div class="item mb3">
               <div class="w-90 margin-a">
-                <img class="w-100" src="~/assets/img/photo/Katrina-Stalcup-Photo-7.jpeg" alt="">
+                <img class="w-100 saturate" src="~/assets/img/photo/Katrina-Stalcup-Photo-7.jpeg" alt="">
               </div>
             </div>
             <div class="mobile-info w-80 flex mb5 float-right">
@@ -47,12 +47,13 @@
                 <p>No Rent MI</p>
                 <p>Green Butterfly</p>
                 <p>SAMEWAVE7</p>
+                <p>HRT Bandies</p>
               </div>
             </div>
             <div class="flex flex-row space-between w-100 mt9 mb2">
               <div class="item w-50">
                 <div class="w-90 text-center">
-                  <img class="w-100 small-spin" src="~/assets/img/art/Katrina-Stalcup-Art-64.jpeg" alt="">
+                  <img class="w-100 left" src="~/assets/img/art/Katrina-Stalcup-Art-64.jpeg" alt="">
                 </div>
               </div>
               <div class="item w-50">
@@ -76,12 +77,22 @@
                   projects.</p>
               </div>
             </div>
+            <div class="item mb3 mt7 overflow-auto w-60">
+              <div class="w-75 float-right pr3">
+                <img class="w-100 grow saturate" src="~/assets/img/photo/Katrina-Stalcup-Photo-8.jpeg" alt="">
+              </div>
+            </div>
+            <div class="item mb3 mt7 overflow-auto w-100">
+              <div class="w-50 pr3 float-right">
+                <img class="w-100 saturate red-border" src="~/assets/img/art/Katrina-Stalcup-Art-28.jpeg" alt="">
+              </div>
+            </div>
             <div class="spacer"></div>
           </div>
         </div>
       </div>
     </div>
-    <div class="info-section w-20 flex pr3 pb3">
+    <div class="info-section w-20 flex pr3 pb3 h-98">
       <div class="w-100 pa4 facts bg-purple overflow-y">
         <p>Katrina Stalcup is a multi-experienced professional based in Brooklyn, NY.</p>
         <br>
@@ -99,6 +110,7 @@
         <p>- No Rent MI</p>
         <p>- Green Butterfly</p>
         <p>- SAMEWAVE7</p>
+        <p>- HRT Bandies</p>
         <br>
         <p>Katrina graduated in 2020 from The University of Michigan with an honors degree in American Culture.</p>
         <br>

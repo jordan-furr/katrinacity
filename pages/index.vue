@@ -7,12 +7,12 @@
                         <div class="flex flex-row w-100">
                             <div class="item w-50">
                                 <div class="w-100">
-                                    <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-6.jpeg" alt="">
+                                    <img class="w-100 grow" src="~/assets/img/art/Katrina-Stalcup-Art-6.jpeg" alt="">
                                 </div>
                             </div>
                             <div class="item w-50">
                                 <div class="w-90 float-right">
-                                    <img class="w-100 grow" src="~/assets/img/art/Katrina-Stalcup-Art-11.jpeg" alt="">
+                                    <img class="w-90 blue-border" src="~/assets/img/art/Katrina-Stalcup-Art-11.jpeg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -28,14 +28,14 @@
                         </div>
                         <div class="item mt4">
                             <div class="w-100">
-                                <img class="w-100" src="~/assets/img/photo/Katrina-Stalcup-Photo-0.jpeg" alt="">
+                                <img class="w-100 saturate" src="~/assets/img/photo/Katrina-Stalcup-Photo-0.jpeg" alt="">
                             </div>
                         </div>
-                       
+
                         <div class="flex flex-row w-100 mt6">
                             <div class="item w-50">
                                 <div class="w-90">
-                                    <img class="w-100 grow mt9" src="~/assets/img/art/Katrina-Stalcup-Art-41.jpeg" alt="">
+                                    <img class="w-100 mt9 red-border" src="~/assets/img/art/Katrina-Stalcup-Art-41.jpeg" alt="">
                                 </div>
                             </div>
                             <div class="item w-50">
@@ -52,7 +52,7 @@
                         <div class="flex flex-row">
                             <div class="item w-40">
                                 <div class="w-100 ml3 mt5 float-right">
-                                    <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-53.jpeg" alt="">
+                                    <img class="w-100 outline-bd" src="~/assets/img/art/Katrina-Stalcup-Art-53.jpeg" alt="">
                                 </div>
                             </div>
                             <div class="item w-60">
@@ -74,9 +74,34 @@
                                 <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-22.jpeg" alt="">
                             </div>
                         </div>
-                        <div class="item mt5 overflow-auto">
+                       
+                        
+                        <div class="flex flex-row w-100 mt6">
+                            
+                            <div class="item w-60">
+                                <div class="w-90">
+                                    <img class="w-100 black-border" src="~/assets/img/art/Katrina-Stalcup-Art-59.jpeg" alt="">
+                                </div>
+                            </div>
+                            <div class="item w-40">
+                                <div class="w-90 float-right">
+                                    <img class="w-100 grow mt8" src="~/assets/img/art/Katrina-Stalcup-Art-8.jpeg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item mt7  overflow-auto">
+                            <div class=" w-55 float-right">
+                                <img class="w-100 bright shrink" src="~/assets/img/art/Katrina-Stalcup-Art-52.jpeg" alt="">
+                            </div>
+                        </div>
+                        <div class="item mt6 overflow-auto">
                             <div class="w-100">
-                                <img class="w-100" src="~/assets/img/photo/Katrina-Stalcup-Photo-6.jpeg" alt="">
+                                <img class="w-100 darken" src="~/assets/img/photo/Katrina-Stalcup-Photo-6.jpeg" alt="">
+                            </div>
+                        </div>
+                        <div class="item mt5 overflow-auto">
+                            <div class=" w-70">
+                                <img class="w-100 outline-bd" src="~/assets/img/art/Katrina-Stalcup-Art-48.jpeg" alt="">
                             </div>
                         </div>
                         <div class="spacer"></div>
@@ -84,7 +109,7 @@
                 </div>
             </div>
         </div>
-        <div class="info-section w-20 flex pr3 pb3">
+        <div class="info-section w-20 flex pr3 pb3 h-98">
             <div class="w-100 pa4 facts bg-purple overflow-y">
                 <h4>Welcome to Katrina City.</h4>
                 <p>Population: 2</p>
