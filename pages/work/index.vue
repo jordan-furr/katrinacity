@@ -5,7 +5,7 @@
         <div class="grid-layout">
           <div class="home-content">
             <div class="flex flex-row">
-              <div class="item w-40">
+              <div class="item w-40 mobile-w-50">
                 <div class="w-100 mt1 float-left">
                   <img class="w-100" src="~/assets/img/new/damian-3.png" alt="">
                 </div>
@@ -41,7 +41,7 @@
               </div>
             </div>
             <div class="flex flex-row space-between w-100 mt9 mb2">
-              <div class="item w-50">
+              <div class="item w-50 mobile-w-70">
                 <div class="w-90 text-center">
                   <img class="w-100 left" src="~/assets/img/art/samelogo.jpeg" alt="">
                 </div>

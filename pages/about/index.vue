@@ -14,7 +14,7 @@
                   
                 </div>
               </div>
-              <div class="item w-60">
+              <div class="item w-60 mobile-w-75">
                 <div class="w-90 mt7 float-right">
                   <img class="w-100" src="~/assets/img/new/damian-2.png" alt="">
                 </div>

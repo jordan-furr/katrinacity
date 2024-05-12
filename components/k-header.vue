@@ -6,9 +6,9 @@
             </div>
             <div class="w-30">
                 <div class="mobile-nav flex flex-row flex-start align-center pl4">
-                    <p><NuxtLink class="midblue-text no-text-dec" to="/work">WORK</NuxtLink></p>
-                    <p><NuxtLink class="midblue-text no-text-dec" to="/art">ART</NuxtLink></p>
-                    <p><NuxtLink class="midblue-text no-text-dec" to="/about">INFORMATION</NuxtLink></p>
+                    <p><NuxtLink class="black-text no-text-dec" to="/work">WORK</NuxtLink></p>
+                    <p><NuxtLink class="black-text no-text-dec" to="/art">ART</NuxtLink></p>
+                    <p><NuxtLink class="black-text no-text-dec" to="/about">INFORMATION</NuxtLink></p>
                 </div>
             </div>
         </div>
@@ -20,6 +20,6 @@ h3{
     margin: 0;
 }
 nav {
-    height: 8%;
+    height: 7%;
 }
 </style>

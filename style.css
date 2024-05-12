@@ -500,6 +500,10 @@ h6 {
     margin-bottom: 2rem;
 }
 
+.mb6 {
+    margin-bottom: 3rem;
+}
+
 .bg-white {
     background-color: white;
 }
@@ -702,10 +706,12 @@ h6 {
 
 .black-text{
     color: black;
+    font-weight: 500;
 }
 
 .black-text:hover{
     color: var(--coatblue);
+    transition: all 0.3s ease-in-out 0s;
 }
 
 .purple-text {
@@ -754,8 +760,8 @@ p:hover {
 .grid {
     background-size: 1.4rem 1.4rem;
     background-image:
-        linear-gradient(to right, var(--coatblue) 1px, transparent 1px),
-        linear-gradient(to bottom, var(--coatblue) 1px, transparent 1px);
+        linear-gradient(to right, var(--coatblue) 0.75px, transparent 0.75px),
+        linear-gradient(to bottom, var(--coatblue) 0.75px, transparent 0.75px);
 }
 
 @media screen and (min-width: 871px) {
@@ -771,18 +777,51 @@ p:hover {
         font-size: 0.5rem;
     }
 
+    .grid {
+        border-right: 0.5px solid var(--coatblue);
+        border-bottom: 0.5px solid var(--coatblue);
+    }
+
+    .mobile-w-50{
+        width: 50% !important;
+    }
+
+    .mobile-w-60{
+        width: 60% !important;
+    }
+
+    .mobile-w-70{
+        width: 70% !important;
+    }
+
+    .mobile-w-75{
+        width: 75% !important;
+    }
+
+    .mobile-w-80{
+        width: 80% !important;
+    }
+
+    .mobile-w-85{
+        width: 85% !important;
+    }
+
+    .mobile-w-90{
+        width: 90% !important;
+    }
+
     .mobile-info {
         background-color: white;
     }
 
     .mobile-nav {
         justify-content: end;
-        gap: 0.7rem;
-        font-size: 80%;
+        gap: 0.8rem;
+        font-size: 66%;
     }
 
     .mobile-info p {
-        font-size: 0.88rem;
+        font-size: 0.9rem;
     }
 
     .grid-layout {
@@ -805,7 +844,7 @@ p:hover {
     .grid {
         background-size: 4.6vw 4.6vw;
         background-image:
-            linear-gradient(to right, var(--coatblue) 1px, transparent 1px),
-            linear-gradient(to bottom, var(--coatblue) 1px, transparent 1px);
+            linear-gradient(to right, var(--coatblue) 0.5px, transparent 0.5px),
+            linear-gradient(to bottom, var(--coatblue) 0.5px, transparent 0.5px);
     }
 }

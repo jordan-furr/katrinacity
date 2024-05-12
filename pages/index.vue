@@ -5,7 +5,7 @@
                 <div class="grid-layout">
                     <div class="home-content">
                         <div class="flex flex-row w-100">
-                            <div class="item w-50">
+                            <div class="item w-50 mobile-w-85">
                                 <div class="w-100">
                                     <img class="w-100 grow" src="~/assets/img/new/damian-1.png" alt="">
                                 </div>
@@ -42,7 +42,7 @@
                             </div>
                         </div>
                         <div class="item mt4">
-                            <div class="margin-a w-60">
+                            <div class="margin-a w-60 mobile-w-70">
                                 <img class="w-100 bright shrink" src="~/assets/img/new/damian-4.jpeg" alt="">
                             </div>
                         </div>
@@ -64,16 +64,13 @@
                                 <img class="w-100" src="~/assets/img/art/aizier.jpeg" alt="">
                             </div>
                         </div>
-                       
-                        
-                        
                         <div class="spacer"></div>
                     </div>
                 </div>
             </div>
         </div>
         <div class="info-section w-30 flex pr3 pb3">
-            <div class="w-100 ph4 pb4 pt1 facts overflow-y">
+            <div class="w-100 ph4 pb4 facts overflow-y">
                 <p>Welcome to Damian City.</p>
                 <br>
                 <p>Population: 2</p>

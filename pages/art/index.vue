@@ -28,14 +28,14 @@
                 <p>samewave7@gmail.com</p>
               </div>
             </div>
-            <div class="item mt5 mb6">
-              <div class="w-66 float-right">
+            <div class="item">
+              <div class="w-66 float-right mt2 mb6">
                 <img class="w-80 pa4" src="~/assets/img/art/earrings.jpeg" alt="">
               </div>
             </div>
             <div class="flex flex-row mt8 mb5 w-100">
               <div class="item w-55">
-                <div class="w-100 pa4">
+                <div class="w-100 pa2">
                   <img class="w-100 red-border bright" src="~/assets/img/art/double.jpeg" alt="">
                 </div>
               </div>
@@ -63,12 +63,12 @@
             </div>
             <div class="flex flex-row space-evenly mt7 w-100">
               <div class="item w-40">
-                <div class="w-70 ">
+                <div class="w-70 mobile-w-90">
                   <img class="w-100" src="~/assets/img/art/dandelion.jpeg" alt="">
                 </div>
               </div>
               <div class="item w-60">
-                <div class="w-90 float-right">
+                <div class="w-90 float-right mt5">
                   <img class="w-100" src="~/assets/img/art/mats.jpeg" alt="">
                 </div>
               </div>
@@ -88,11 +88,6 @@
                   dozens of heirloom bandanas and silks.</p>
                 <br>
                 <p>Damian's favorite yarn store in New York is Downtown Yarns off Avenue A.</p>
-                <br>
-                <p>Damian has used a Janome sewing machine and is looking for a replacement.</p>
-                <br>
-                <p>Damian is working on an upcoming magazine project.</p>
-
               </div>
             </div>
 
@@ -101,6 +96,14 @@
                 <div class="w-100 pa6 mt6">
                   <img class="w-100 grow" src="~/assets/img/art/vest.png" alt="">
                 </div>
+              </div>
+            </div>
+            <div class="mobile-info w-70 flex float-right">
+              <div class="w-100 pa3 facts">
+                <p>Damian uses a Janome sewing machine, but is looking for a replacement.</p>
+                <br>
+                <p>Keep your eye out for a new magazine project.</p>
+
               </div>
             </div>
             <div class="item w-95 float-right">
@@ -118,7 +121,7 @@
               </div>
             </div>
             <div class="mobile-info w-60 mb4 flex float-right">
-              <div class="w-100 pa3 facts bg-purple">
+              <div class="w-100 pa3 facts">
                 <p>Damian likes to listen to Leonard Cohen while creating.</p>
               </div>
             </div>
@@ -137,10 +140,11 @@
               </div>
             </div>
             <div class="item w-60 margin-a">
-              <div class="w-100 ml3 mt5 float-right">
+              <div class="w-100 ml3 mt2 float-right">
                 <img class="w-100" src="~/assets/img/art/pillows.jpeg" alt="">
               </div>
             </div>         
+            <div class="spacer"></div>
             <div class="spacer"></div>
           </div>
         </div>
