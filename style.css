@@ -742,10 +742,12 @@ h6 {
 
 .blue-text {
     color: #2877ff;
+    font-weight: 500;
 }
 
 .blue-text:hover {
-    color: #2877ffe0;
+    color: var(--midblue);
+    transition: all 0.3s ease-in-out 0s;
 }
 
 p:hover {
@@ -817,7 +819,6 @@ p:hover {
     .mobile-nav {
         justify-content: end;
         gap: 0.8rem;
-        font-size: 66%;
     }
 
     .mobile-info p {
