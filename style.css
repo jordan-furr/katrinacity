@@ -819,6 +819,7 @@ p:hover {
     .mobile-nav {
         justify-content: end;
         gap: 0.8rem;
+        font-size: 75%;
     }
 
     .mobile-info p {
