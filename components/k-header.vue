@@ -6,7 +6,7 @@
             </div>
             <div class="w-30">
                 <div class="mobile-nav flex flex-row flex-start align-center pl4">
-                    <p><NuxtLink class="midblue-text no-text-dec" to="/work">PROJECTS</NuxtLink></p>
+                    <p><NuxtLink class="midblue-text no-text-dec" to="/work">WORK</NuxtLink></p>
                     <p><NuxtLink class="midblue-text no-text-dec" to="/art">ART</NuxtLink></p>
                     <p><NuxtLink class="midblue-text no-text-dec" to="/about">INFORMATION</NuxtLink></p>
                 </div>

@@ -12,7 +12,7 @@
               </div>
               <div class="item w-55 ">
                 <div class="w-80 mt5 float-right">
-                  <img class="w-100 bright " src="~/assets/img/photo/Katrina-Stalcup-Photo-3.jpeg" alt="">
+                  <img class="w-100 bright " src="~/assets/img/photo/gp.jpeg" alt="">
                 </div>
               </div>
               <div class="spacer"></div>
@@ -26,7 +26,7 @@
             </div>
             <div class="item mb3">
               <div class="w-90 margin-a">
-                <img class="w-100 saturate" src="~/assets/img/photo/Katrina-Stalcup-Photo-7.jpeg" alt="">
+                <img class="w-100 saturate" src="~/assets/img/photo/train.jpeg" alt="">
               </div>
             </div>
             <div class="mobile-info w-80 flex mb5 float-right">
@@ -43,12 +43,7 @@
             <div class="flex flex-row space-between w-100 mt9 mb2">
               <div class="item w-50">
                 <div class="w-90 text-center">
-                  <img class="w-100 left" src="~/assets/img/art/Katrina-Stalcup-Art-64.jpeg" alt="">
-                </div>
-              </div>
-              <div class="item w-50">
-                <div class="w-90 float-right">
-                 
+                  <img class="w-100 left" src="~/assets/img/art/samelogo.jpeg" alt="">
                 </div>
               </div>
             </div>
@@ -63,7 +58,7 @@
             
             <div class="item mb3 mt7 overflow-auto w-60">
               <div class="w-75 float-right pr3">
-                <img class="w-100 grow saturate" src="~/assets/img/photo/Katrina-Stalcup-Photo-8.jpeg" alt="">
+                <img class="w-100 grow saturate" src="~/assets/img/photo/moon.jpeg" alt="">
               </div>
             </div>
             <div class="mobile-info w-100 flex">

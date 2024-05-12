@@ -32,12 +32,12 @@
                         <div class="flex flex-row w-100 mt7">
                             <div class="item w-50">
                                 <div class="w-90">
-                                    <img class="w-80 mt9" src="~/assets/img/art/Katrina-Stalcup-Art-41.jpeg" alt="">
+                                    <img class="w-80 mt9" src="~/assets/img/art/candle.jpeg" alt="">
                                 </div>
                             </div>
                             <div class="item w-50">
                                 <div class="w-100">
-                                    <img class="w-100 grow" src="~/assets/img/art/Katrina-Stalcup-Art-54.jpeg" alt="">
+                                    <img class="w-100 grow" src="~/assets/img/art/picnic.jpeg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -48,7 +48,7 @@
                         </div>
                         <div class="item mt4">
                             <div class="w-100">
-                                <img class="w-100 saturate" src="~/assets/img/photo/Katrina-Stalcup-Photo-0.jpeg" alt="">
+                                <img class="w-100 saturate" src="~/assets/img/photo/france.jpeg" alt="">
                             </div>
                         </div>
                         
@@ -61,7 +61,7 @@
                         </div>
                         <div class="item mt3 overflow-auto">
                             <div class="float-right w-70">
-                                <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-22.jpeg" alt="">
+                                <img class="w-100" src="~/assets/img/art/aizier.jpeg" alt="">
                             </div>
                         </div>
                        
@@ -86,7 +86,7 @@
                 <br>
                 <div class="item mt5 mb5">
                     <div class="w-50 margin-a">
-                        <img class="w-100 small-spin" src="~/assets/img/art/Katrina-Stalcup-Art-58.jpeg" alt="">
+                        <img class="w-100 small-spin" src="~/assets/img/art/mini.jpeg" alt="">
                     </div>
                 </div>
             </div>

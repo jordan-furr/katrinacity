@@ -7,13 +7,13 @@
             <div class="flex flex-row space-between w-100 mt2 mb3">
               <div class="item w-50">
                 <div class="w-100">
-                  <img class="w-100 shrink" src="~/assets/img/art/Katrina-Stalcup-Art-39.jpeg" alt="">
+                  <img class="w-100 shrink" src="~/assets/img/art/star.jpeg" alt="">
                 </div>
               </div>
               <div class="flex flex-col w-40 align-center">
                 <div class="item w-85">
                   <div class="w-100 text-center">
-                    <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-20.jpeg" alt="">
+                    <img class="w-100" src="~/assets/img/art/linked.jpeg" alt="">
                   </div>
                 </div>
                 <div class="item w-90">
@@ -30,19 +30,18 @@
             </div>
             <div class="item mt5 mb6">
               <div class="w-66 float-right">
-                <img class="w-80 pa4" src="~/assets/img/art/Katrina-Stalcup-Art-47.jpeg" alt="">
+                <img class="w-80 pa4" src="~/assets/img/art/earrings.jpeg" alt="">
               </div>
             </div>
-
             <div class="flex flex-row mt8 mb5 w-100">
               <div class="item w-55">
                 <div class="w-100 pa4">
-                  <img class="w-100 red-border bright" src="~/assets/img/art/Katrina-Stalcup-Art-45.jpeg" alt="">
+                  <img class="w-100 red-border bright" src="~/assets/img/art/double.jpeg" alt="">
                 </div>
               </div>
               <div class="item w-45">
                 <div class="w-90">
-                  <img class="w-100 blue-border" src="~/assets/img/art/Katrina-Stalcup-Art-23.jpeg" alt="">
+                  <img class="w-100 blue-border" src="~/assets/img/art/collage.jpeg" alt="">
                 </div>
               </div>
             </div>
@@ -63,14 +62,14 @@
               </div>
             </div>
             <div class="flex flex-row space-evenly mt7 w-100">
-              <div class="item w-50">
-                <div class="w-90 ">
-                  <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-0.jpeg" alt="">
+              <div class="item w-40">
+                <div class="w-70 ">
+                  <img class="w-100" src="~/assets/img/art/dandelion.jpeg" alt="">
                 </div>
               </div>
-              <div class="item w-50">
+              <div class="item w-60">
                 <div class="w-90 float-right">
-                
+                  <img class="w-100" src="~/assets/img/art/mats.jpeg" alt="">
                 </div>
               </div>
             </div>
@@ -78,7 +77,7 @@
             <div class="item w-60">
               <div class="item mt7 mb4">
                 <div class="w-100 pa6 mt6">
-                  <img class="w-100 bright" src="~/assets/img/art/Katrina-Stalcup-Art-51.jpeg" alt="">
+                  <img class="w-100 bright" src="~/assets/img/art/mohair.jpeg" alt="">
                 </div>
               </div>
             </div>
@@ -100,11 +99,24 @@
             <div class="item w-80 float-right">
               <div class="item mt7 mb4">
                 <div class="w-100 pa6 mt6">
-                  <img class="w-100 grow" src="~/assets/img/art/Katrina-Stalcup-Art-63.jpeg" alt="">
+                  <img class="w-100 grow" src="~/assets/img/art/vest.png" alt="">
                 </div>
               </div>
             </div>
-
+            <div class="item w-95 float-right">
+              <div class="item mb7">
+                <div class="w-40 pa6 mt6">
+                  <img class="w-100 grow" src="~/assets/img/art/diamond.jpeg" alt="">
+                </div>
+              </div>
+            </div>
+            <div class="item w-60 float-right">
+              <div class="item">
+                <div class="w-90 pa6">
+                  <img class="w-100 shrink" src="~/assets/img/art/knit-vest.jpeg" alt="">
+                </div>
+              </div>
+            </div>
             <div class="mobile-info w-60 mb4 flex float-right">
               <div class="w-100 pa3 facts bg-purple">
                 <p>Damian likes to listen to Leonard Cohen while creating.</p>
@@ -113,18 +125,22 @@
             <div class="item w-60">
               <div class="item">
                 <div class="w-95 pa6">
-                  <img class="w-100 shrink" src="~/assets/img/art/Katrina-Stalcup-Art-9.jpeg" alt="">
+                  <img class="w-100 shrink" src="~/assets/img/art/gallup.jpeg" alt="">
                 </div>
               </div>
             </div>
-            <div class="flex flex-row">
-              <div class="item w-60 margin-a">
-                  <div class="w-100 ml3 mt5 float-right">
-                    <img class="w-100" src="~/assets/img/art/Katrina-Stalcup-Art-53.jpeg" alt="">
-                  </div>
+            <div class="item w-60 float-right">
+              <div class="item">
+                <div class="w-95 pa6">
+                  <img class="w-100 shrink" src="~/assets/img/art/vest-crochet.jpeg" alt="">
                 </div>
+              </div>
             </div>
-                        
+            <div class="item w-60 margin-a">
+              <div class="w-100 ml3 mt5 float-right">
+                <img class="w-100" src="~/assets/img/art/pillows.jpeg" alt="">
+              </div>
+            </div>         
             <div class="spacer"></div>
           </div>
         </div>

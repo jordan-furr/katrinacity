@@ -9,7 +9,7 @@
                 <div class="flex flex-col">
                   
                   <div class="w-100 text-center">
-                    <img class="w-80 spin" src="~/assets/img/about/Katrina-Stalcup-About-10.png" alt="">
+                    <img class="w-80 spin" src="~/assets/img/art/samewave.png" alt="">
                   </div>
                   
                 </div>
