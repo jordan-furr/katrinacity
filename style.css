@@ -2,6 +2,10 @@
     --red: #ff2830;
     --blue: #2877ff;
     --purple: #4b0f99;
+    --darkpurple: rgb(28, 13, 85);
+    --midblue: #415AA6;
+    --darkblue: #363F73;
+    --coatblue: #4E71D9;
 }
 
 html,
@@ -12,8 +16,6 @@ body {
     padding: 0;
     line-height: 1.15;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: rgb(28, 13, 85);
-    font-size: 1.05rem;
     scroll-behavior: smooth;
 }
 
@@ -85,7 +87,7 @@ h6 {
 
 .flex-start {
     justify-content: start;
-    gap: 5rem;
+    gap: 1.5rem;
 }
 
 .flex-end {
@@ -290,6 +292,10 @@ h6 {
     padding-left: 1rem;
 }
 
+.pl4 {
+    padding-left: 1.5rem;
+}
+
 .pl5 {
     padding-left: 2rem;
 }
@@ -312,6 +318,10 @@ h6 {
 
 .pt1{
     padding-top: 0.25rem;
+}
+
+.pt2{
+    padding-top: 0.5rem;
 }
 
 .ph1 {
@@ -369,6 +379,10 @@ h6 {
 
 .pb3 {
     padding-bottom: 1rem;
+}
+
+.pb4 {
+    padding-bottom: 1.5rem;
 }
 
 .ma1 {
@@ -517,7 +531,8 @@ h6 {
 
 
 .grid {
-    border: 2px solid #7c67d9;
+    border-right: 1px solid var(--coatblue);
+    border-bottom: 1px solid var(--coatblue);
 }
 
 .home-content {
@@ -625,12 +640,6 @@ h6 {
     border-width: 0.33em;
 }
 
-.red-border-thick:hover {
-    border: 1px solid var(--purple);
-    border-width: 0.7em;
-    transition: all 0.3s ease-in-out 0s;
-}
-
 .black-border {
     border: 1px solid black;
     border-width: .5em;
@@ -664,18 +673,6 @@ h6 {
     transition: all 0.3s ease-in-out 0s;
 }
 
-.white-border {
-    border: 1px solid #8877d4;
-    border-width: 5px;
-}
-
-.white-border:hover {
-    border: 1px solid white;
-    border-width: 5px;
-    transition: all 0.3s ease-in-out 0s;
-
-}
-
 .grid-layout {
     padding: 2rem;
 }
@@ -690,20 +687,38 @@ h6 {
     color: white;
 }
 
-.bg-purple {
-    background-color: #ae91ff;
-}
-
-.bg-red {
-    background-color: var(--red);
-}
-
 .red-text {
     color: var(--red);
 }
 
+.coat-text {
+    color: #4E71D9;
+}
+
+.midblue-text{
+    color: var(--midblue);
+    font-weight: 500;
+}
+
+.black-text{
+    color: black;
+}
+
+.black-text:hover{
+    color: var(--coatblue);
+}
+
 .purple-text {
-    color: #8877d4;
+    color: #7c67d9;
+}
+
+.dark-purp-text{
+    color: rgb(28, 13, 85);
+}
+
+.midblue-text:hover {
+    color: var(--blue);
+    transition: all 0.3s ease-in-out 0s;
 }
 
 .purple-text:hover {
@@ -728,7 +743,7 @@ h6 {
 }
 
 p:hover {
-    color: #4b0f99;
+    color: var(--blue);
 }
 
 .item {
@@ -737,10 +752,10 @@ p:hover {
 
 
 .grid {
-    background-size: 1.5rem 1.5rem;
+    background-size: 1.4rem 1.4rem;
     background-image:
-        linear-gradient(to right, #7c67d9 1px, transparent 1px),
-        linear-gradient(to bottom, #7c67d9 1px, transparent 1px);
+        linear-gradient(to right, var(--coatblue) 1px, transparent 1px),
+        linear-gradient(to bottom, var(--coatblue) 1px, transparent 1px);
 }
 
 @media screen and (min-width: 871px) {
@@ -754,6 +769,16 @@ p:hover {
         color: white;
         margin-top: 0.25rem;
         font-size: 0.5rem;
+    }
+
+    .mobile-info {
+        background-color: white;
+    }
+
+    .mobile-nav {
+        justify-content: end;
+        gap: 0.7rem;
+        font-size: 80%;
     }
 
     .mobile-info p {
@@ -780,7 +805,7 @@ p:hover {
     .grid {
         background-size: 4.6vw 4.6vw;
         background-image:
-            linear-gradient(to right, #7c67d9 1px, transparent 1px),
-            linear-gradient(to bottom, #7c67d9 1px, transparent 1px);
+            linear-gradient(to right, var(--coatblue) 1px, transparent 1px),
+            linear-gradient(to bottom, var(--coatblue) 1px, transparent 1px);
     }
 }

@@ -7,9 +7,9 @@
 
 <script setup lang="ts">
 useHead({
-  title: 'Katrina City',
+  title: 'Damian City',
   meta: [
-    { name: 'Katrina City', content: 'Katrina Stalcup' }
+    { name: 'Damian City', content: 'Damian Stalcup' }
   ],
   bodyAttrs: {
     class: 'test'

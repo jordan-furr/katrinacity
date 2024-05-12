@@ -1,13 +1,15 @@
 <template>
     <nav class="flex w-100 flex-auto">
         <div class="flex flex-row align-center space-between ph3 w-100">
-            <div class="">
-                <h3><NuxtLink class="white no-text-dec" to="/">KATRINACITY</NuxtLink></h3>
+            <div class="w-70">
+                <p><NuxtLink class="midblue-text no-text-dec" to="/">DAMIANCITY</NuxtLink></p>
             </div>
-            <div class="flex flex-row flex-end align-center">
-                <p><NuxtLink class="purple-text under-hov" to="/art">art</NuxtLink></p>
-                <p><NuxtLink class="purple-text under-hov" to="/work">work</NuxtLink></p>
-                <p><NuxtLink class="purple-text under-hov" to="/about">about</NuxtLink></p>
+            <div class="w-30">
+                <div class="mobile-nav flex flex-row flex-start align-center pl4">
+                    <p><NuxtLink class="midblue-text no-text-dec" to="/work">PROJECTS</NuxtLink></p>
+                    <p><NuxtLink class="midblue-text no-text-dec" to="/art">ART</NuxtLink></p>
+                    <p><NuxtLink class="midblue-text no-text-dec" to="/about">INFORMATION</NuxtLink></p>
+                </div>
             </div>
         </div>
     </nav>
